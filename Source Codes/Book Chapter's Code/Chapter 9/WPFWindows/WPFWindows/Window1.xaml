@@ -1,0 +1,9 @@
+﻿<Window x:Class="WPFWindows.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SecondWindow" Height="300" Width="300">
+    <Grid>
+        <Button Margin="50,90,50,90" Name="ShowFirstWindow" Click="ShowFirstWindow_Click">ShowFirstWindow</Button>
+
+    </Grid>
+</Window>

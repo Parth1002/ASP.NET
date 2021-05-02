@@ -1,0 +1,13 @@
+﻿<Window x:Class="ChangingDirection_FlowContent.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="160" Width="400">
+	<FlowDocumentPageViewer>
+		<FlowDocument>
+			<Paragraph FlowDirection="LeftToRight">This text is from left to right.
+			</Paragraph>
+			<Paragraph FlowDirection="RightToLeft">.This text is from right to left
+			</Paragraph>
+		</FlowDocument>
+	</FlowDocumentPageViewer>
+    </Window>

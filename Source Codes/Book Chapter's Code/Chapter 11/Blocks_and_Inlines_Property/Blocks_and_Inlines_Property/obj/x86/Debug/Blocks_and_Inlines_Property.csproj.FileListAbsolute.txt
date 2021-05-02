@@ -1,0 +1,52 @@
+C:\BlackBooks\C#2010\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\bin\Debug\Blocks_and_Inlines_Property.exe
+C:\BlackBooks\C#2010\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\bin\Debug\Blocks_and_Inlines_Property.pdb
+C:\BlackBooks\C#2010\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\BlackBooks\C#2010\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\MainWindow.baml
+C:\BlackBooks\C#2010\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\MainWindow.g.cs
+C:\BlackBooks\C#2010\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\App.g.cs
+C:\BlackBooks\C#2010\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\Blocks_and_Inlines_Property_MarkupCompile.cache
+C:\BlackBooks\C#2010\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\Blocks_and_Inlines_Property.g.resources
+C:\BlackBooks\C#2010\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\Blocks_and_Inlines_Property.Properties.Resources.resources
+C:\BlackBooks\C#2010\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\BlackBooks\C#2010\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\BlackBooks\C#2010\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\Blocks_and_Inlines_Property.exe
+C:\BlackBooks\C#2010\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\Blocks_and_Inlines_Property.pdb
+C:\BlackBooks\C#2010\Chapter 11\21Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\Blocks_and_Inlines_Property.exe
+C:\BlackBooks\C#2010\Chapter 11\21Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\Blocks_and_Inlines_Property.pdb
+C:\BlackBooks\C#2010\Chapter 11\21Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\bin\Debug\Blocks_and_Inlines_Property.exe
+C:\BlackBooks\C#2010\Chapter 11\21Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\bin\Debug\Blocks_and_Inlines_Property.pdb
+C:\BlackBooks\C#2010\Chapter 11\21Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\BlackBooks\C#2010\Chapter 11\21Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\MainWindow.baml
+C:\BlackBooks\C#2010\Chapter 11\21Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\MainWindow.g.cs
+C:\BlackBooks\C#2010\Chapter 11\21Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\App.g.cs
+C:\BlackBooks\C#2010\Chapter 11\21Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\Blocks_and_Inlines_Property_MarkupCompile.cache
+C:\BlackBooks\C#2010\Chapter 11\21Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\Blocks_and_Inlines_Property.g.resources
+C:\BlackBooks\C#2010\Chapter 11\21Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\Blocks_and_Inlines_Property.Properties.Resources.resources
+C:\BlackBooks\C#2010\Chapter 11\21Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\BlackBooks\C#2010\Chapter 11\21Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\Blocks_and_Inlines_Property.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\Blocks_and_Inlines_Property.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\bin\Debug\Blocks_and_Inlines_Property.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\bin\Debug\Blocks_and_Inlines_Property.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\MainWindow.baml
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\MainWindow.g.cs
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\App.g.cs
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\Blocks_and_Inlines_Property_MarkupCompile.cache
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\Blocks_and_Inlines_Property.g.resources
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\Blocks_and_Inlines_Property.Properties.Resources.resources
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\GenerateResource.write.1.tlog
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\Blocks_and_Inlines_Property.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\Blocks_and_Inlines_Property.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\bin\Debug\Blocks_and_Inlines_Property.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\bin\Debug\Blocks_and_Inlines_Property.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\MainWindow.baml
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\MainWindow.g.cs
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\App.g.cs
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\Blocks_and_Inlines_Property_MarkupCompile.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\Blocks_and_Inlines_Property.g.resources
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\Blocks_and_Inlines_Property.Properties.Resources.resources
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\GenerateResource.read.1.tlog
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\Blocks_and_Inlines_Property\Blocks_and_Inlines_Property\obj\x86\Debug\GenerateResource.write.1.tlog

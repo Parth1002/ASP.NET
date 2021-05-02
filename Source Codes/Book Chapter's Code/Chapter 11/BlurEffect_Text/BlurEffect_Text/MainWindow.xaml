@@ -1,0 +1,11 @@
+﻿<Window x:Class="BlurEffect_Text.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="100" Width="300">
+    <TextBlock  Text="Blur Effect" FontSize="30" VerticalAlignment="Center" 
+		 Foreground="Red" TextAlignment="Center"> 
+		<TextBlock.BitmapEffect>
+            <BlurBitmapEffect></BlurBitmapEffect>
+            </TextBlock.BitmapEffect>
+    </TextBlock>
+</Window>

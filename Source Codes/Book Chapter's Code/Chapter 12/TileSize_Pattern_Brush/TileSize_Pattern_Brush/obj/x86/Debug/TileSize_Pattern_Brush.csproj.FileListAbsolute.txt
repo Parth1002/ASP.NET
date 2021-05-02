@@ -1,0 +1,45 @@
+D:\Black Books\C# 2010\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\bin\Debug\TileSize_Pattern_Brush.exe
+D:\Black Books\C# 2010\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\bin\Debug\TileSize_Pattern_Brush.pdb
+D:\Black Books\C# 2010\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\MainWindow.baml
+D:\Black Books\C# 2010\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\MainWindow.g.cs
+D:\Black Books\C# 2010\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\App.g.cs
+D:\Black Books\C# 2010\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\TileSize_Pattern_Brush_MarkupCompile.cache
+D:\Black Books\C# 2010\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\TileSize_Pattern_Brush.g.resources
+D:\Black Books\C# 2010\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\TileSize_Pattern_Brush.Properties.Resources.resources
+D:\Black Books\C# 2010\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Black Books\C# 2010\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Black Books\C# 2010\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\TileSize_Pattern_Brush.exe
+D:\Black Books\C# 2010\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\TileSize_Pattern_Brush.pdb
+D:\Black Books\C# 2010\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\Page1.baml
+D:\Black Books\C# 2010\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\Page1.g.cs
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\TileSize_Pattern_Brush.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\TileSize_Pattern_Brush.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\bin\Debug\TileSize_Pattern_Brush.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\bin\Debug\TileSize_Pattern_Brush.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\MainWindow.baml
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\Page1.baml
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\MainWindow.g.cs
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\Page1.g.cs
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\App.g.cs
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\TileSize_Pattern_Brush_MarkupCompile.cache
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\TileSize_Pattern_Brush.g.resources
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\TileSize_Pattern_Brush.Properties.Resources.resources
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\GenerateResource.write.1.tlog
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\TileSize_Pattern_Brush.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\TileSize_Pattern_Brush.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\bin\Debug\TileSize_Pattern_Brush.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\bin\Debug\TileSize_Pattern_Brush.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\MainWindow.baml
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\Page1.baml
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\MainWindow.g.cs
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\Page1.g.cs
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\App.g.cs
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\TileSize_Pattern_Brush_MarkupCompile.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\TileSize_Pattern_Brush.g.resources
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\TileSize_Pattern_Brush.Properties.Resources.resources
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\GenerateResource.read.1.tlog
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\TileSize_Pattern_Brush\TileSize_Pattern_Brush\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,15 @@
+D:\Black Books\C# 2010\Chapter 35\AppDomains\AppOne\AppOne\bin\Debug\AppOne.exe
+D:\Black Books\C# 2010\Chapter 35\AppDomains\AppOne\AppOne\bin\Debug\AppOne.pdb
+D:\Black Books\C# 2010\Chapter 35\AppDomains\AppOne\AppOne\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\Chapter 35\AppDomains\AppOne\AppOne\obj\x86\Debug\AppOne.Form1.resources
+D:\Black Books\C# 2010\Chapter 35\AppDomains\AppOne\AppOne\obj\x86\Debug\AppOne.Properties.Resources.resources
+D:\Black Books\C# 2010\Chapter 35\AppDomains\AppOne\AppOne\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Black Books\C# 2010\Chapter 35\AppDomains\AppOne\AppOne\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Black Books\C# 2010\Chapter 35\AppDomains\AppOne\AppOne\obj\x86\Debug\AppOne.exe
+D:\Black Books\C# 2010\Chapter 35\AppDomains\AppOne\AppOne\obj\x86\Debug\AppOne.pdb
+D:\Black Books\C# 2010\Chapter 35\AppDomains\AppOne\AppOne\bin\Debug\AppTwo.exe
+D:\Black Books\C# 2010\Chapter 35\AppDomains\AppOne\AppOne\bin\Debug\AppTwo.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 35\AppDomains\AppOne\AppOne\obj\x86\Debug\AppOne.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 35\AppDomains\AppOne\AppOne\obj\x86\Debug\AppOne.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 35\AppDomains\AppOne\AppOne\obj\x86\Debug\AppOne.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 35\AppDomains\AppOne\AppOne\obj\x86\Debug\AppOne.pdb

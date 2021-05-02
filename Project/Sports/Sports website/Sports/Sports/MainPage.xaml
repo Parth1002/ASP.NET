@@ -1,0 +1,54 @@
+﻿<UserControl x:Class="Sports.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignHeight="373" d:DesignWidth="589" Loaded="UserControl_Loaded">
+
+    <Grid x:Name="LayoutRoot" Background="White" Height="365" Width="566">
+        <Grid HorizontalAlignment="Center" VerticalAlignment="Center" x:Name="RootLayout" Height="426" 
+              Margin="1,-38,-0.999500000000012,-23" Width="576">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="42"/>
+                <ColumnDefinition Width="211" />
+                <ColumnDefinition Width="268"/>
+                <ColumnDefinition Width="53*" />
+            </Grid.ColumnDefinitions>
+            <!-- ListBox slide display -->
+            <ListBox x:Name="Show" Grid.ColumnSpan="3" ScrollViewer.HorizontalScrollBarVisibility="Hidden"
+ScrollViewer.VerticalScrollBarVisibility="Hidden" Margin="0,45,43,27" Grid.Column="1">
+                <!-- Style to size all images to desired size -->
+                <ListBox.ItemContainerStyle>
+                    <Style TargetType="ListBoxItem">
+                        <Setter Property="Width" Value="480"/>
+                        <Setter Property="Height" Value="360"/>
+                    </Style>
+                </ListBox.ItemContainerStyle>
+                <!-- Slide images, Update that path if necessary for your machine -->
+                <Image Source="Images/nike.jpg" Width="484" Height="364" />
+                <Image Source="images/nike1.jpg" Width="484" Height="364" />
+                <Image Source="images/nike2.jpg" Width="484" Height="364" />
+                <Image Source="images/rbk.jpg" Width="484" Height="364" />
+                <Image Source="images/rbk1.jpg" Width="484" Height="364" />
+                <Image Source="images/rbk2.jpg" Width="484" Height="364"  />
+                <Image Source="images/MRF.jpg" Width="484" Height="364" />
+                <Image Source="images/epic.jpg" Width="484" Height="364"  />
+            </ListBox>
+            <!-- Previous/Next buttons -->
+            <Button x:Name="Previous" Content="&lt;&lt;" Click="Nav_Click" Margin="13,172,5,80">
+                <Button.OpacityMask>
+                    <ImageBrush />
+                </Button.OpacityMask>
+                <Button.Background>
+                    <ImageBrush ImageSource="/Sports;component/Images/Label_Red.jpg" />
+                </Button.Background>
+            </Button>
+            <Button x:Name="Next" Grid.Column="3" Content="&gt;&gt;" Click="Nav_Click" Margin="16,173,14,79" Opacity="1" 
+                    RenderTransformOrigin="0,0">
+                <Button.Background>
+                    <ImageBrush ImageSource="/Sports;component/Images/Label_Red.jpg" />
+                </Button.Background>
+            </Button>            
+        </Grid>
+    </Grid>
+</UserControl>

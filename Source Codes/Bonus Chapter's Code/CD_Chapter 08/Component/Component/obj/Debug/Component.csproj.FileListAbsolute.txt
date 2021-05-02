@@ -1,0 +1,10 @@
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\Component\Component\bin\Debug\Component.dll
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\Component\Component\bin\Debug\Component.pdb
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\Component\Component\obj\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\Component\Component\obj\Debug\Component.dll
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\Component\Component\obj\Debug\Component.pdb
+D:\Comdex\Black Book\C# 2010\Chapters\CD_Chapters\CD_Chapter 08\Component\Component\bin\Debug\Component.dll
+D:\Comdex\Black Book\C# 2010\Chapters\CD_Chapters\CD_Chapter 08\Component\Component\bin\Debug\Component.pdb
+D:\Comdex\Black Book\C# 2010\Chapters\CD_Chapters\CD_Chapter 08\Component\Component\obj\Debug\ResolveAssemblyReference.cache
+D:\Comdex\Black Book\C# 2010\Chapters\CD_Chapters\CD_Chapter 08\Component\Component\obj\Debug\Component.dll
+D:\Comdex\Black Book\C# 2010\Chapters\CD_Chapters\CD_Chapter 08\Component\Component\obj\Debug\Component.pdb

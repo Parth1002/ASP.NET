@@ -1,0 +1,22 @@
+C:\Users\Avantika\Desktop\Chapter 36\FileAccessApp\FileAccessApp\bin\Debug\FileAccessApp.exe
+C:\Users\Avantika\Desktop\Chapter 36\FileAccessApp\FileAccessApp\bin\Debug\FileAccessApp.pdb
+C:\Users\Avantika\Desktop\Chapter 36\FileAccessApp\FileAccessApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Avantika\Desktop\Chapter 36\FileAccessApp\FileAccessApp\obj\x86\Debug\FileAccessApp.Form1.resources
+C:\Users\Avantika\Desktop\Chapter 36\FileAccessApp\FileAccessApp\obj\x86\Debug\FileAccessApp.Properties.Resources.resources
+C:\Users\Avantika\Desktop\Chapter 36\FileAccessApp\FileAccessApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Avantika\Desktop\Chapter 36\FileAccessApp\FileAccessApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Avantika\Desktop\Chapter 36\FileAccessApp\FileAccessApp\obj\x86\Debug\FileAccessApp.exe
+C:\Users\Avantika\Desktop\Chapter 36\FileAccessApp\FileAccessApp\obj\x86\Debug\FileAccessApp.pdb
+C:\Users\Avantika\Desktop\Chapter 36\FileAccessApp\FileAccessApp\bin\Debug\FileAccessLib.dll
+C:\Users\Avantika\Desktop\Chapter 36\FileAccessApp\FileAccessApp\bin\Debug\FileAccessLib.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\FileAccessApp\FileAccessApp\obj\x86\Debug\FileAccessApp.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\FileAccessApp\FileAccessApp\obj\x86\Debug\FileAccessApp.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\FileAccessApp\FileAccessApp\bin\Debug\FileAccessApp.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\FileAccessApp\FileAccessApp\bin\Debug\FileAccessApp.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\FileAccessApp\FileAccessApp\bin\Debug\FileAccessLib.dll
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\FileAccessApp\FileAccessApp\bin\Debug\FileAccessLib.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\FileAccessApp\FileAccessApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\FileAccessApp\FileAccessApp\obj\x86\Debug\FileAccessApp.Form1.resources
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\FileAccessApp\FileAccessApp\obj\x86\Debug\FileAccessApp.Properties.Resources.resources
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\FileAccessApp\FileAccessApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\FileAccessApp\FileAccessApp\obj\x86\Debug\GenerateResource.write.1.tlog

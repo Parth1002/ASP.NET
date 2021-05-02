@@ -1,0 +1,34 @@
+﻿<Window x:Class="TextTrimming.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="267" Width="300">
+    <Grid Width="280" Height="236">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="138*" />
+            <ColumnDefinition Width="142*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="58*" />
+            <RowDefinition Height="19*" />
+            <RowDefinition Height="184*" />
+        </Grid.RowDefinitions>
+        <TextBlock Background="LightGoldenrodYellow" 
+		 TextTrimming="CharacterEllipsis" Margin="0,0,89,124" Grid.RowSpan="3" Grid.ColumnSpan="2" Height="100" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="179">
+			Hello<LineBreak/>
+			Hello Hello<LineBreak/>
+			Hello Hello Hello<LineBreak/>
+			Hello Hello Hello Hello<LineBreak/>
+			Hello Hello Hello Hello Hello<LineBreak/>
+			Hello Hello Hello Hello Hello Hello
+        </TextBlock>
+        <TextBlock Background="LightCyan" TextTrimming="WordEllipsis" Margin="0,0,111,12" Grid.Row="2" Grid.ColumnSpan="2" HorizontalAlignment="Right" Width="157" Height="101" VerticalAlignment="Bottom">
+			Hello<LineBreak/>
+			Hello Hello<LineBreak/>
+			Hello Hello Hello<LineBreak/>
+			Hello Hello Hello Hello<LineBreak/>
+			Hello Hello Hello Hello Hello<LineBreak/>
+			Hello Hello Hello Hello Hello Hello
+        </TextBlock>
+
+    </Grid>
+</Window>

@@ -1,0 +1,34 @@
+﻿<Window x:Class="UsingPath.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="300" Width="300">
+    <Grid>
+        <Path Stroke="Black" StrokeThickness="2" Fill="LightBlue">
+            <Path.Data>
+                <GeometryGroup FillRule="EvenOdd">
+                    <PathGeometry>
+                        <PathGeometry.Figures>
+                            <PathFigure StartPoint="150,150">
+                                <PathFigure.Segments>
+                                    <PathSegmentCollection>
+                                        <ArcSegment Size="50,50" IsLargeArc="True"
+ 					SweepDirection="CounterClockwise" Point="25,120" />
+                                    </PathSegmentCollection>
+                                </PathFigure.Segments>
+                            </PathFigure>
+                            <PathFigure StartPoint="150,150">
+                                <PathFigure.Segments>
+                                    <PathSegmentCollection>
+                                        <ArcSegment Size="70,70" IsLargeArc="True"
+ 					SweepDirection="CounterClockwise" Point="25,100" />
+                                    </PathSegmentCollection>
+                                </PathFigure.Segments>
+                            </PathFigure>
+                        </PathGeometry.Figures>
+                    </PathGeometry>
+                </GeometryGroup>
+            </Path.Data>
+        </Path>
+
+    </Grid>
+</Window>

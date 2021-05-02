@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+  <employeeslist>
+    <Employees diffgr:id="Employees1" msdata:rowOrder="0">
+      <EmployeeID>1</EmployeeID>
+      <FirstName>Nancy</FirstName>
+      <Title>Sales Representative</Title>
+      <HireDate>1992-05-01T00:00:00+05:30</HireDate>
+    </Employees>
+    <Employees diffgr:id="Employees2" msdata:rowOrder="1">
+      <EmployeeID>2</EmployeeID>
+      <FirstName>Andrew</FirstName>
+      <Title>Vice President, Sales</Title>
+      <HireDate>1992-08-14T00:00:00+05:30</HireDate>
+    </Employees>
+    <Employees diffgr:id="Employees3" msdata:rowOrder="2">
+      <EmployeeID>3</EmployeeID>
+      <FirstName>Janet</FirstName>
+      <Title>Sales Representative</Title>
+      <HireDate>1992-04-01T00:00:00+05:30</HireDate>
+    </Employees>
+    <Employees diffgr:id="Employees4" msdata:rowOrder="3">
+      <EmployeeID>4</EmployeeID>
+      <FirstName>Margaret</FirstName>
+      <Title>Sales Representative</Title>
+      <HireDate>1993-05-03T00:00:00+05:30</HireDate>
+    </Employees>
+    <Employees diffgr:id="Employees5" msdata:rowOrder="4">
+      <EmployeeID>5</EmployeeID>
+      <FirstName>Steven</FirstName>
+      <Title>Sales Manager</Title>
+      <HireDate>1993-10-17T00:00:00+05:30</HireDate>
+    </Employees>
+    <Employees diffgr:id="Employees6" msdata:rowOrder="5">
+      <EmployeeID>6</EmployeeID>
+      <FirstName>Michael</FirstName>
+      <Title>Sales Representative</Title>
+      <HireDate>1993-10-17T00:00:00+05:30</HireDate>
+    </Employees>
+    <Employees diffgr:id="Employees7" msdata:rowOrder="6">
+      <EmployeeID>7</EmployeeID>
+      <FirstName>Robert</FirstName>
+      <Title>Sales Representative</Title>
+      <HireDate>1994-01-02T00:00:00+05:30</HireDate>
+    </Employees>
+    <Employees diffgr:id="Employees8" msdata:rowOrder="7">
+      <EmployeeID>8</EmployeeID>
+      <FirstName>Laura</FirstName>
+      <Title>Inside Sales Coordinator</Title>
+      <HireDate>1994-03-05T00:00:00+05:30</HireDate>
+    </Employees>
+    <Employees diffgr:id="Employees9" msdata:rowOrder="8">
+      <EmployeeID>9</EmployeeID>
+      <FirstName>Anne</FirstName>
+      <Title>Sales Representative</Title>
+      <HireDate>1994-11-15T00:00:00+05:30</HireDate>
+    </Employees>
+    <Employees diffgr:id="Employees10" msdata:rowOrder="9">
+      <EmployeeID>10</EmployeeID>
+      <FirstName>fdf</FirstName>
+      <Title>sfs</Title>
+    </Employees>
+    <Employees diffgr:id="Employees11" msdata:rowOrder="10" diffgr:hasChanges="inserted">
+      <EmployeeID>7</EmployeeID>
+      <FirstName>King</FirstName>
+      <Title>Sales Representative</Title>
+    </Employees>
+  </employeeslist>
+</diffgr:diffgram>

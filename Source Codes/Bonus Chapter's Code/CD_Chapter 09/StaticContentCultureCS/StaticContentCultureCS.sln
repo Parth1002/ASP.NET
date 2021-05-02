@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "StaticContentCultureCS", ".", "{04D734B5-AEB4-4C32-8B92-BF63C017C07F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/StaticContentCultureCS"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Black Books\C# 2010\CD Chapters\Chapter 9\StaticContentCultureCS\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\StaticContentCultureCS\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/StaticContentCultureCS"
+		Release.AspNetCompiler.PhysicalPath = "D:\Black Books\C# 2010\CD Chapters\Chapter 9\StaticContentCultureCS\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\StaticContentCultureCS\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50865"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04D734B5-AEB4-4C32-8B92-BF63C017C07F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D734B5-AEB4-4C32-8B92-BF63C017C07F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

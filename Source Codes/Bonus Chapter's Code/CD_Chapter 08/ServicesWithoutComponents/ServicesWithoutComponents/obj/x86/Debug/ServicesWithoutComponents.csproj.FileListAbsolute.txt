@@ -1,0 +1,15 @@
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\ServicesWithoutComponents\ServicesWithoutComponents\bin\Debug\ServicesWithoutComponents.exe
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\ServicesWithoutComponents\ServicesWithoutComponents\bin\Debug\ServicesWithoutComponents.pdb
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\ServicesWithoutComponents\ServicesWithoutComponents\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\ServicesWithoutComponents\ServicesWithoutComponents\obj\x86\Debug\ServicesWithoutComponents.Properties.Resources.resources
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\ServicesWithoutComponents\ServicesWithoutComponents\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\ServicesWithoutComponents\ServicesWithoutComponents\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\ServicesWithoutComponents\ServicesWithoutComponents\obj\x86\Debug\ServicesWithoutComponents.exe
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\ServicesWithoutComponents\ServicesWithoutComponents\obj\x86\Debug\ServicesWithoutComponents.pdb
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\ServicesWithoutComponents\ServicesWithoutComponents\bin\Debug\TransactionComponent.dll
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\ServicesWithoutComponents\ServicesWithoutComponents\bin\Debug\TransactionComponent.pdb
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\ServicesWithoutComponents\ServicesWithoutComponents\obj\x86\Debug\ServicesWithoutComponents.Form1.resources
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\ServicesWithoutComponents\ServicesWithoutComponents\bin\Debug\ServicesWithoutComponents.exe.manifest
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\ServicesWithoutComponents\ServicesWithoutComponents\bin\Debug\ServicesWithoutComponents.application
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\ServicesWithoutComponents\ServicesWithoutComponents\obj\x86\Debug\ServicesWithoutComponents.exe.manifest
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\ServicesWithoutComponents\ServicesWithoutComponents\obj\x86\Debug\ServicesWithoutComponents.application

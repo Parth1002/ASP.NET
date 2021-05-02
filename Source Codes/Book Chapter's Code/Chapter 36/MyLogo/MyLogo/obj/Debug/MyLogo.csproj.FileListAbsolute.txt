@@ -1,0 +1,24 @@
+C:\Users\Avantika\Desktop\Chapter 36\MyLogo\MyLogo\bin\Debug\MyLogo.dll
+C:\Users\Avantika\Desktop\Chapter 36\MyLogo\MyLogo\bin\Debug\MyLogo.pdb
+C:\Users\Avantika\Desktop\Chapter 36\MyLogo\MyLogo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Avantika\Desktop\Chapter 36\MyLogo\MyLogo\obj\Debug\UserControl1.baml
+C:\Users\Avantika\Desktop\Chapter 36\MyLogo\MyLogo\obj\Debug\UserControl1.g.cs
+C:\Users\Avantika\Desktop\Chapter 36\MyLogo\MyLogo\obj\Debug\MyLogo_MarkupCompile.cache
+C:\Users\Avantika\Desktop\Chapter 36\MyLogo\MyLogo\obj\Debug\MyLogo.g.resources
+C:\Users\Avantika\Desktop\Chapter 36\MyLogo\MyLogo\obj\Debug\MyLogo.Properties.Resources.resources
+C:\Users\Avantika\Desktop\Chapter 36\MyLogo\MyLogo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Avantika\Desktop\Chapter 36\MyLogo\MyLogo\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Avantika\Desktop\Chapter 36\MyLogo\MyLogo\obj\Debug\MyLogo.dll
+C:\Users\Avantika\Desktop\Chapter 36\MyLogo\MyLogo\obj\Debug\MyLogo.pdb
+D:\MyLogo\MyLogo\bin\Debug\MyLogo.dll
+D:\MyLogo\MyLogo\bin\Debug\MyLogo.pdb
+D:\MyLogo\MyLogo\obj\Debug\ResolveAssemblyReference.cache
+D:\MyLogo\MyLogo\obj\Debug\UserControl1.baml
+D:\MyLogo\MyLogo\obj\Debug\UserControl1.g.cs
+D:\MyLogo\MyLogo\obj\Debug\MyLogo_MarkupCompile.cache
+D:\MyLogo\MyLogo\obj\Debug\MyLogo.g.resources
+D:\MyLogo\MyLogo\obj\Debug\MyLogo.Properties.Resources.resources
+D:\MyLogo\MyLogo\obj\Debug\GenerateResource.read.1.tlog
+D:\MyLogo\MyLogo\obj\Debug\GenerateResource.write.1.tlog
+D:\MyLogo\MyLogo\obj\Debug\MyLogo.dll
+D:\MyLogo\MyLogo\obj\Debug\MyLogo.pdb

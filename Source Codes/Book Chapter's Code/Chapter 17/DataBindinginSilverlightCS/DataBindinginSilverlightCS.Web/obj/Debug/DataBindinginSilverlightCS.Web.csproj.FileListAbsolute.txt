@@ -1,0 +1,15 @@
+C:\Users\Anamika\Desktop\DataBindinginSilverlightCS\DataBindinginSilverlightCS.Web\bin\DataBindinginSilverlightCS.Web.dll
+C:\Users\Anamika\Desktop\DataBindinginSilverlightCS\DataBindinginSilverlightCS.Web\bin\DataBindinginSilverlightCS.Web.pdb
+C:\Users\Anamika\Desktop\DataBindinginSilverlightCS\DataBindinginSilverlightCS.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anamika\Desktop\DataBindinginSilverlightCS\DataBindinginSilverlightCS.Web\obj\Debug\DataBindinginSilverlightCS.Web.dll
+C:\Users\Anamika\Desktop\DataBindinginSilverlightCS\DataBindinginSilverlightCS.Web\obj\Debug\DataBindinginSilverlightCS.Web.pdb
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\DataBindinginSilverlightCS\DataBindinginSilverlightCS.Web\bin\DataBindinginSilverlightCS.Web.dll
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\DataBindinginSilverlightCS\DataBindinginSilverlightCS.Web\bin\DataBindinginSilverlightCS.Web.pdb
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\DataBindinginSilverlightCS\DataBindinginSilverlightCS.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\DataBindinginSilverlightCS\DataBindinginSilverlightCS.Web\obj\Debug\DataBindinginSilverlightCS.Web.dll
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\DataBindinginSilverlightCS\DataBindinginSilverlightCS.Web\obj\Debug\DataBindinginSilverlightCS.Web.pdb
+C:\Users\Anil\Desktop\Chapter 17\DataBindinginSilverlightCS\DataBindinginSilverlightCS.Web\bin\DataBindinginSilverlightCS.Web.dll
+C:\Users\Anil\Desktop\Chapter 17\DataBindinginSilverlightCS\DataBindinginSilverlightCS.Web\bin\DataBindinginSilverlightCS.Web.pdb
+C:\Users\Anil\Desktop\Chapter 17\DataBindinginSilverlightCS\DataBindinginSilverlightCS.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anil\Desktop\Chapter 17\DataBindinginSilverlightCS\DataBindinginSilverlightCS.Web\obj\Debug\DataBindinginSilverlightCS.Web.dll
+C:\Users\Anil\Desktop\Chapter 17\DataBindinginSilverlightCS\DataBindinginSilverlightCS.Web\obj\Debug\DataBindinginSilverlightCS.Web.pdb

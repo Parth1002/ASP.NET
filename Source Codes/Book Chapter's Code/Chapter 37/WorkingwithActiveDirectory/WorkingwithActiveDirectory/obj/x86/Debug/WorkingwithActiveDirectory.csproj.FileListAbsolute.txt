@@ -1,0 +1,30 @@
+D:\Black Books\C# 2010\Chapter 37\WorkingwithActiveDirectory\WorkingwithActiveDirectory\bin\Debug\WorkingwithActiveDirectory.exe
+D:\Black Books\C# 2010\Chapter 37\WorkingwithActiveDirectory\WorkingwithActiveDirectory\bin\Debug\WorkingwithActiveDirectory.pdb
+D:\Black Books\C# 2010\Chapter 37\WorkingwithActiveDirectory\WorkingwithActiveDirectory\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\Chapter 37\WorkingwithActiveDirectory\WorkingwithActiveDirectory\obj\x86\Debug\WorkingwithActiveDirectory.Form1.resources
+D:\Black Books\C# 2010\Chapter 37\WorkingwithActiveDirectory\WorkingwithActiveDirectory\obj\x86\Debug\WorkingwithActiveDirectory.Properties.Resources.resources
+D:\Black Books\C# 2010\Chapter 37\WorkingwithActiveDirectory\WorkingwithActiveDirectory\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Black Books\C# 2010\Chapter 37\WorkingwithActiveDirectory\WorkingwithActiveDirectory\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Black Books\C# 2010\Chapter 37\WorkingwithActiveDirectory\WorkingwithActiveDirectory\obj\x86\Debug\WorkingwithActiveDirectory.exe
+D:\Black Books\C# 2010\Chapter 37\WorkingwithActiveDirectory\WorkingwithActiveDirectory\obj\x86\Debug\WorkingwithActiveDirectory.pdb
+C:\Users\Administrator.WIN-ACTIVEDIREC\Documents\WorkingwithActiveDirectory\WorkingwithActiveDirectory\obj\x86\Debug\WorkingwithActiveDirectory.exe
+C:\Users\Administrator.WIN-ACTIVEDIREC\Documents\WorkingwithActiveDirectory\WorkingwithActiveDirectory\obj\x86\Debug\WorkingwithActiveDirectory.pdb
+C:\Users\Administrator.WIN-ACTIVEDIREC\Documents\WorkingwithActiveDirectory\WorkingwithActiveDirectory\bin\Debug\WorkingwithActiveDirectory.exe
+C:\Users\Administrator.WIN-ACTIVEDIREC\Documents\WorkingwithActiveDirectory\WorkingwithActiveDirectory\bin\Debug\WorkingwithActiveDirectory.pdb
+C:\Users\Administrator.WIN-ACTIVEDIREC\Documents\WorkingwithActiveDirectory\WorkingwithActiveDirectory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator.WIN-ACTIVEDIREC\Documents\WorkingwithActiveDirectory\WorkingwithActiveDirectory\obj\x86\Debug\WorkingwithActiveDirectory.Form1.resources
+C:\Users\Administrator.WIN-ACTIVEDIREC\Documents\WorkingwithActiveDirectory\WorkingwithActiveDirectory\obj\x86\Debug\WorkingwithActiveDirectory.Properties.Resources.resources
+C:\Users\Administrator.WIN-ACTIVEDIREC\Documents\WorkingwithActiveDirectory\WorkingwithActiveDirectory\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator.WIN-ACTIVEDIREC\Documents\WorkingwithActiveDirectory\WorkingwithActiveDirectory\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Comdex\Black Book\C# 2010\CD\Codes\Chapter 37\WorkingwithActiveDirectory\WorkingwithActiveDirectory\obj\x86\Debug\WorkingwithActiveDirectory.exe
+D:\Comdex\Black Book\C# 2010\CD\Codes\Chapter 37\WorkingwithActiveDirectory\WorkingwithActiveDirectory\obj\x86\Debug\WorkingwithActiveDirectory.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 37\WorkingwithActiveDirectory\WorkingwithActiveDirectory\obj\x86\Debug\WorkingwithActiveDirectory.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 37\WorkingwithActiveDirectory\WorkingwithActiveDirectory\obj\x86\Debug\WorkingwithActiveDirectory.pdb
+F:\ASP.NET\Source Codes\Book Chapter's Code\Chapter 37\WorkingwithActiveDirectory\WorkingwithActiveDirectory\bin\Debug\WorkingwithActiveDirectory.exe
+F:\ASP.NET\Source Codes\Book Chapter's Code\Chapter 37\WorkingwithActiveDirectory\WorkingwithActiveDirectory\bin\Debug\WorkingwithActiveDirectory.pdb
+F:\ASP.NET\Source Codes\Book Chapter's Code\Chapter 37\WorkingwithActiveDirectory\WorkingwithActiveDirectory\obj\x86\Debug\WorkingwithActiveDirectory.csprojAssemblyReference.cache
+F:\ASP.NET\Source Codes\Book Chapter's Code\Chapter 37\WorkingwithActiveDirectory\WorkingwithActiveDirectory\obj\x86\Debug\WorkingwithActiveDirectory.Form1.resources
+F:\ASP.NET\Source Codes\Book Chapter's Code\Chapter 37\WorkingwithActiveDirectory\WorkingwithActiveDirectory\obj\x86\Debug\WorkingwithActiveDirectory.Properties.Resources.resources
+F:\ASP.NET\Source Codes\Book Chapter's Code\Chapter 37\WorkingwithActiveDirectory\WorkingwithActiveDirectory\obj\x86\Debug\WorkingwithActiveDirectory.csproj.GenerateResource.cache
+F:\ASP.NET\Source Codes\Book Chapter's Code\Chapter 37\WorkingwithActiveDirectory\WorkingwithActiveDirectory\obj\x86\Debug\WorkingwithActiveDirectory.exe
+F:\ASP.NET\Source Codes\Book Chapter's Code\Chapter 37\WorkingwithActiveDirectory\WorkingwithActiveDirectory\obj\x86\Debug\WorkingwithActiveDirectory.pdb

@@ -1,0 +1,10 @@
+D:\Books\Black Book\ASP.NET 4.0_BB\Chapter 20\CS\AnimatedButtonAppCS\AnimatedButtonAppCS.Web\bin\AnimatedButtonAppCS.Web.dll
+D:\Books\Black Book\ASP.NET 4.0_BB\Chapter 20\CS\AnimatedButtonAppCS\AnimatedButtonAppCS.Web\bin\AnimatedButtonAppCS.Web.pdb
+D:\Books\Black Book\ASP.NET 4.0_BB\Chapter 20\CS\AnimatedButtonAppCS\AnimatedButtonAppCS.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Books\Black Book\ASP.NET 4.0_BB\Chapter 20\CS\AnimatedButtonAppCS\AnimatedButtonAppCS.Web\obj\Debug\AnimatedButtonAppCS.Web.dll
+D:\Books\Black Book\ASP.NET 4.0_BB\Chapter 20\CS\AnimatedButtonAppCS\AnimatedButtonAppCS.Web\obj\Debug\AnimatedButtonAppCS.Web.pdb
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\Final Code Folder\Chapter 19\CS\AnimatedButtonAppCS\AnimatedButtonAppCS.Web\bin\AnimatedButtonAppCS.Web.dll
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\Final Code Folder\Chapter 19\CS\AnimatedButtonAppCS\AnimatedButtonAppCS.Web\bin\AnimatedButtonAppCS.Web.pdb
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\Final Code Folder\Chapter 19\CS\AnimatedButtonAppCS\AnimatedButtonAppCS.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\Final Code Folder\Chapter 19\CS\AnimatedButtonAppCS\AnimatedButtonAppCS.Web\obj\Debug\AnimatedButtonAppCS.Web.dll
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\Final Code Folder\Chapter 19\CS\AnimatedButtonAppCS\AnimatedButtonAppCS.Web\obj\Debug\AnimatedButtonAppCS.Web.pdb

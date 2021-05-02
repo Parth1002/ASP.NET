@@ -1,0 +1,9 @@
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\ScrollImageControl\ScrollImageControl\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\ScrollImageControl\ScrollImageControl\obj\x86\Debug\ScrollImageControl.Form1.resources
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\ScrollImageControl\ScrollImageControl\obj\x86\Debug\ScrollImageControl.Properties.Resources.resources
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\ScrollImageControl\ScrollImageControl\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\ScrollImageControl\ScrollImageControl\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\ScrollImageControl\ScrollImageControl\bin\Debug\ScrollImageControl.exe
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\ScrollImageControl\ScrollImageControl\bin\Debug\ScrollImageControl.pdb
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\ScrollImageControl\ScrollImageControl\obj\x86\Debug\ScrollImageControl.exe
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\ScrollImageControl\ScrollImageControl\obj\x86\Debug\ScrollImageControl.pdb

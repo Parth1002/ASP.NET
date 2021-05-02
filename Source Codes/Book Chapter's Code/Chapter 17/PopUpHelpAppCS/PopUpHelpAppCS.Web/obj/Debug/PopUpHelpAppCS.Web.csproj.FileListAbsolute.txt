@@ -1,0 +1,20 @@
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\PopUpHelpAppCS\PopUpHelpAppCS.Web\bin\PopUpHelpAppCS.Web.dll
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\PopUpHelpAppCS\PopUpHelpAppCS.Web\bin\PopUpHelpAppCS.Web.pdb
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\PopUpHelpAppCS\PopUpHelpAppCS.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\PopUpHelpAppCS\PopUpHelpAppCS.Web\obj\Debug\PopUpHelpAppCS.Web.dll
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\PopUpHelpAppCS\PopUpHelpAppCS.Web\obj\Debug\PopUpHelpAppCS.Web.pdb
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\Final Code Folder\Chapter 19\CS\PopUpHelpAppCS\PopUpHelpAppCS.Web\bin\PopUpHelpAppCS.Web.dll
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\Final Code Folder\Chapter 19\CS\PopUpHelpAppCS\PopUpHelpAppCS.Web\bin\PopUpHelpAppCS.Web.pdb
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\Final Code Folder\Chapter 19\CS\PopUpHelpAppCS\PopUpHelpAppCS.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\Final Code Folder\Chapter 19\CS\PopUpHelpAppCS\PopUpHelpAppCS.Web\obj\Debug\PopUpHelpAppCS.Web.dll
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\Final Code Folder\Chapter 19\CS\PopUpHelpAppCS\PopUpHelpAppCS.Web\obj\Debug\PopUpHelpAppCS.Web.pdb
+D:\Comdex\Black Book\ASP 4.0\CD\Chapter 19\CS\PopUpHelpAppCS\PopUpHelpAppCS.Web\bin\PopUpHelpAppCS.Web.dll
+D:\Comdex\Black Book\ASP 4.0\CD\Chapter 19\CS\PopUpHelpAppCS\PopUpHelpAppCS.Web\bin\PopUpHelpAppCS.Web.pdb
+D:\Comdex\Black Book\ASP 4.0\CD\Chapter 19\CS\PopUpHelpAppCS\PopUpHelpAppCS.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Comdex\Black Book\ASP 4.0\CD\Chapter 19\CS\PopUpHelpAppCS\PopUpHelpAppCS.Web\obj\Debug\PopUpHelpAppCS.Web.dll
+D:\Comdex\Black Book\ASP 4.0\CD\Chapter 19\CS\PopUpHelpAppCS\PopUpHelpAppCS.Web\obj\Debug\PopUpHelpAppCS.Web.pdb
+D:\Comdex\Black Book\ASP 4.0\CD\codes\Chapter 19\CS\PopUpHelpAppCS\PopUpHelpAppCS.Web\bin\PopUpHelpAppCS.Web.dll
+D:\Comdex\Black Book\ASP 4.0\CD\codes\Chapter 19\CS\PopUpHelpAppCS\PopUpHelpAppCS.Web\bin\PopUpHelpAppCS.Web.pdb
+D:\Comdex\Black Book\ASP 4.0\CD\codes\Chapter 19\CS\PopUpHelpAppCS\PopUpHelpAppCS.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Comdex\Black Book\ASP 4.0\CD\codes\Chapter 19\CS\PopUpHelpAppCS\PopUpHelpAppCS.Web\obj\Debug\PopUpHelpAppCS.Web.dll
+D:\Comdex\Black Book\ASP 4.0\CD\codes\Chapter 19\CS\PopUpHelpAppCS\PopUpHelpAppCS.Web\obj\Debug\PopUpHelpAppCS.Web.pdb

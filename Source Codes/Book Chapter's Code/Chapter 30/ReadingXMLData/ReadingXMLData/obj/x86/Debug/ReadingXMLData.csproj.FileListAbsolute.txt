@@ -1,0 +1,13 @@
+D:\Black Books\C# 2010\Chapter 30\ReadingXMLData\ReadingXMLData\bin\Debug\ReadingXMLData.exe
+D:\Black Books\C# 2010\Chapter 30\ReadingXMLData\ReadingXMLData\bin\Debug\ReadingXMLData.pdb
+D:\Black Books\C# 2010\Chapter 30\ReadingXMLData\ReadingXMLData\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\Chapter 30\ReadingXMLData\ReadingXMLData\obj\x86\Debug\ReadingXMLData.Form1.resources
+D:\Black Books\C# 2010\Chapter 30\ReadingXMLData\ReadingXMLData\obj\x86\Debug\ReadingXMLData.Properties.Resources.resources
+D:\Black Books\C# 2010\Chapter 30\ReadingXMLData\ReadingXMLData\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Black Books\C# 2010\Chapter 30\ReadingXMLData\ReadingXMLData\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Black Books\C# 2010\Chapter 30\ReadingXMLData\ReadingXMLData\obj\x86\Debug\ReadingXMLData.exe
+D:\Black Books\C# 2010\Chapter 30\ReadingXMLData\ReadingXMLData\obj\x86\Debug\ReadingXMLData.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 30\ReadingXMLData\ReadingXMLData\obj\x86\Debug\ReadingXMLData.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 30\ReadingXMLData\ReadingXMLData\obj\x86\Debug\ReadingXMLData.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 30\ReadingXMLData\ReadingXMLData\obj\x86\Debug\ReadingXMLData.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 30\ReadingXMLData\ReadingXMLData\obj\x86\Debug\ReadingXMLData.pdb

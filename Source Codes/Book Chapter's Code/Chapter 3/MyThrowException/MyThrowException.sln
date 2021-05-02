@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyThrowException", "MyThrowException\MyThrowException.csproj", "{13FBC5C8-DB64-46FC-B91F-1EA9EDB2D1AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13FBC5C8-DB64-46FC-B91F-1EA9EDB2D1AF}.Debug|x86.ActiveCfg = Debug|x86
+		{13FBC5C8-DB64-46FC-B91F-1EA9EDB2D1AF}.Debug|x86.Build.0 = Debug|x86
+		{13FBC5C8-DB64-46FC-B91F-1EA9EDB2D1AF}.Release|x86.ActiveCfg = Release|x86
+		{13FBC5C8-DB64-46FC-B91F-1EA9EDB2D1AF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

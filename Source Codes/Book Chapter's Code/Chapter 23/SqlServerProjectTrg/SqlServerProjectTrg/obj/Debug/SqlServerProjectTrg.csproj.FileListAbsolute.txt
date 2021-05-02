@@ -1,0 +1,5 @@
+D:\Black Books\C# 2010\Appendix E\SqlServerProjectTrg\SqlServerProjectTrg\bin\Debug\SqlServerProjectTrg.dll
+D:\Black Books\C# 2010\Appendix E\SqlServerProjectTrg\SqlServerProjectTrg\bin\Debug\SqlServerProjectTrg.pdb
+D:\Black Books\C# 2010\Appendix E\SqlServerProjectTrg\SqlServerProjectTrg\obj\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\Appendix E\SqlServerProjectTrg\SqlServerProjectTrg\obj\Debug\SqlServerProjectTrg.dll
+D:\Black Books\C# 2010\Appendix E\SqlServerProjectTrg\SqlServerProjectTrg\obj\Debug\SqlServerProjectTrg.pdb

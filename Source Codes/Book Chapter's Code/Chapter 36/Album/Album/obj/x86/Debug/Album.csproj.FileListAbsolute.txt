@@ -1,0 +1,30 @@
+C:\Users\Avantika\Desktop\Chapter 36\Album\Album\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Avantika\Desktop\Chapter 36\Album\Album\obj\x86\Debug\MainWindow.baml
+C:\Users\Avantika\Desktop\Chapter 36\Album\Album\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Avantika\Desktop\Chapter 36\Album\Album\obj\x86\Debug\App.g.cs
+C:\Users\Avantika\Desktop\Chapter 36\Album\Album\obj\x86\Debug\Album_MarkupCompile.cache
+C:\Users\Avantika\Desktop\Chapter 36\Album\Album\obj\x86\Debug\Album.g.resources
+C:\Users\Avantika\Desktop\Chapter 36\Album\Album\obj\x86\Debug\Album.Properties.Resources.resources
+C:\Users\Avantika\Desktop\Chapter 36\Album\Album\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Avantika\Desktop\Chapter 36\Album\Album\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Avantika\Desktop\Chapter 36\Album\Album\bin\Debug\Album.exe
+C:\Users\Avantika\Desktop\Chapter 36\Album\Album\bin\Debug\Album.pdb
+C:\Users\Avantika\Desktop\Chapter 36\Album\Album\obj\x86\Debug\Window1.baml
+C:\Users\Avantika\Desktop\Chapter 36\Album\Album\obj\x86\Debug\Window1.g.cs
+C:\Users\Avantika\Desktop\Chapter 36\Album\Album\obj\x86\Debug\Album.exe
+C:\Users\Avantika\Desktop\Chapter 36\Album\Album\obj\x86\Debug\Album.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\Album\Album\obj\x86\Debug\Album.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\Album\Album\obj\x86\Debug\Album.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\Album\Album\bin\Debug\Album.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\Album\Album\bin\Debug\Album.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\Album\Album\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\Album\Album\obj\x86\Debug\MainWindow.baml
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\Album\Album\obj\x86\Debug\Window1.baml
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\Album\Album\obj\x86\Debug\MainWindow.g.cs
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\Album\Album\obj\x86\Debug\Window1.g.cs
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\Album\Album\obj\x86\Debug\App.g.cs
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\Album\Album\obj\x86\Debug\Album_MarkupCompile.cache
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\Album\Album\obj\x86\Debug\Album.g.resources
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\Album\Album\obj\x86\Debug\Album.Properties.Resources.resources
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\Album\Album\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\Album\Album\obj\x86\Debug\GenerateResource.write.1.tlog

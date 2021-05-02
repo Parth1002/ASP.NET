@@ -1,0 +1,10 @@
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS.Web\bin\SimpleSilverlightAppCS.Web.dll
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS.Web\bin\SimpleSilverlightAppCS.Web.pdb
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS.Web\obj\Debug\SimpleSilverlightAppCS.Web.dll
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS.Web\obj\Debug\SimpleSilverlightAppCS.Web.pdb
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\Final Code Folder\Chapter 19\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS.Web\bin\SimpleSilverlightAppCS.Web.dll
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\Final Code Folder\Chapter 19\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS.Web\bin\SimpleSilverlightAppCS.Web.pdb
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\Final Code Folder\Chapter 19\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\Final Code Folder\Chapter 19\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS.Web\obj\Debug\SimpleSilverlightAppCS.Web.dll
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\Final Code Folder\Chapter 19\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS.Web\obj\Debug\SimpleSilverlightAppCS.Web.pdb

@@ -1,0 +1,5 @@
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\SubjectScheduleAppCS\SubjectScheduleAppCS.Web\bin\SubjectScheduleAppCS.Web.dll
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\SubjectScheduleAppCS\SubjectScheduleAppCS.Web\bin\SubjectScheduleAppCS.Web.pdb
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\SubjectScheduleAppCS\SubjectScheduleAppCS.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\SubjectScheduleAppCS\SubjectScheduleAppCS.Web\obj\Debug\SubjectScheduleAppCS.Web.dll
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\SubjectScheduleAppCS\SubjectScheduleAppCS.Web\obj\Debug\SubjectScheduleAppCS.Web.pdb

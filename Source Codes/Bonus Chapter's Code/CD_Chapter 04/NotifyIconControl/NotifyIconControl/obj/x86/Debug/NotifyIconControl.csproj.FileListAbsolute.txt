@@ -1,0 +1,18 @@
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\NotifyIconControl\NotifyIconControl\bin\Debug\NotifyIconControl.exe
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\NotifyIconControl\NotifyIconControl\bin\Debug\NotifyIconControl.pdb
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\NotifyIconControl\NotifyIconControl\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\NotifyIconControl\NotifyIconControl\obj\x86\Debug\NotifyIconControl.Form1.resources
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\NotifyIconControl\NotifyIconControl\obj\x86\Debug\NotifyIconControl.Properties.Resources.resources
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\NotifyIconControl\NotifyIconControl\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\NotifyIconControl\NotifyIconControl\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\NotifyIconControl\NotifyIconControl\obj\x86\Debug\NotifyIconControl.exe
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\NotifyIconControl\NotifyIconControl\obj\x86\Debug\NotifyIconControl.pdb
+D:\CSharp 2010 Black book\CD Chapters\Chapter 04\Code\NotifyIconControl\NotifyIconControl\obj\x86\Debug\NotifyIconControl.exe
+D:\CSharp 2010 Black book\CD Chapters\Chapter 04\Code\NotifyIconControl\NotifyIconControl\obj\x86\Debug\NotifyIconControl.pdb
+D:\CSharp 2010 Black book\CD Chapters\Chapter 04\Code\NotifyIconControl\NotifyIconControl\bin\Debug\NotifyIconControl.exe
+D:\CSharp 2010 Black book\CD Chapters\Chapter 04\Code\NotifyIconControl\NotifyIconControl\bin\Debug\NotifyIconControl.pdb
+D:\CSharp 2010 Black book\CD Chapters\Chapter 04\Code\NotifyIconControl\NotifyIconControl\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CSharp 2010 Black book\CD Chapters\Chapter 04\Code\NotifyIconControl\NotifyIconControl\obj\x86\Debug\NotifyIconControl.Form1.resources
+D:\CSharp 2010 Black book\CD Chapters\Chapter 04\Code\NotifyIconControl\NotifyIconControl\obj\x86\Debug\NotifyIconControl.Properties.Resources.resources
+D:\CSharp 2010 Black book\CD Chapters\Chapter 04\Code\NotifyIconControl\NotifyIconControl\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CSharp 2010 Black book\CD Chapters\Chapter 04\Code\NotifyIconControl\NotifyIconControl\obj\x86\Debug\GenerateResource.write.1.tlog

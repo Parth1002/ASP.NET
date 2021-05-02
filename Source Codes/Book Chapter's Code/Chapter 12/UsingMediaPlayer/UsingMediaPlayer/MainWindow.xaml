@@ -1,0 +1,10 @@
+﻿<Window x:Class="UsingMediaPlayer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="300" Width="300">
+    <Grid>
+        <Button Margin="77,100,64,111" Name="button1" Click="button1_Click">Click to
+ 	  Play</Button>
+
+    </Grid>
+</Window>

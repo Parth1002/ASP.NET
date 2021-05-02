@@ -1,0 +1,16 @@
+D:\Black Books\C# 2010\Chapter 25\SimpleBinding\SimpleBinding\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\Chapter 25\SimpleBinding\SimpleBinding\obj\x86\Debug\SimpleBinding.Form1.resources
+D:\Black Books\C# 2010\Chapter 25\SimpleBinding\SimpleBinding\obj\x86\Debug\SimpleBinding.Properties.Resources.resources
+D:\Black Books\C# 2010\Chapter 25\SimpleBinding\SimpleBinding\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Black Books\C# 2010\Chapter 25\SimpleBinding\SimpleBinding\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Black Books\C# 2010\Chapter 25\SimpleBinding\SimpleBinding\bin\Debug\SimpleBinding.exe.config
+D:\Black Books\C# 2010\Chapter 25\SimpleBinding\SimpleBinding\bin\Debug\SimpleBinding.exe
+D:\Black Books\C# 2010\Chapter 25\SimpleBinding\SimpleBinding\bin\Debug\SimpleBinding.pdb
+D:\Black Books\C# 2010\Chapter 25\SimpleBinding\SimpleBinding\obj\x86\Debug\SimpleBinding.exe
+D:\Black Books\C# 2010\Chapter 25\SimpleBinding\SimpleBinding\obj\x86\Debug\SimpleBinding.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 25\SimpleBinding\SimpleBinding\bin\Debug\SimpleBinding.exe.config
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 25\SimpleBinding\SimpleBinding\obj\x86\Debug\SimpleBinding.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 25\SimpleBinding\SimpleBinding\obj\x86\Debug\SimpleBinding.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 25\SimpleBinding\SimpleBinding\bin\Debug\SimpleBinding.exe.config
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 25\SimpleBinding\SimpleBinding\obj\x86\Debug\SimpleBinding.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 25\SimpleBinding\SimpleBinding\obj\x86\Debug\SimpleBinding.pdb

@@ -1,0 +1,47 @@
+﻿<Window x:Class="Storyboard_XAML.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="300" Width="500">
+    <Grid>
+        <Ellipse Height="57" Margin="10,26,0,0" Name="Circle" Stroke="Black"
+ 		VerticalAlignment="Top" HorizontalAlignment="Left" Width="70"  Fill="Aqua"/>
+        <Button HorizontalAlignment="Left" Margin="10,0,0,34" Name="Start" Width="75"
+ 		Height="23" VerticalAlignment="Bottom">Start</Button>
+        <Button Height="23" Margin="140,0,0,34" Name="Stop" VerticalAlignment="Bottom"
+ 		HorizontalAlignment="Left" Width="75" >Stop</Button>
+        <Button Margin="0,0,332,34" Name="Pause" HorizontalAlignment="Right" Width="75"
+ 		Height="23" VerticalAlignment="Bottom">Pause</Button>
+        <Button Height="23" Margin="210,0,193,34" Name="Resume"
+ 		VerticalAlignment="Bottom">Resume</Button>
+        <Button Height="23" HorizontalAlignment="Left" Margin="355,0,0,34"
+ 		Name="SkipToFill" VerticalAlignment="Bottom" Width="75">SkipToFill</Button>
+        <Button Height="23" HorizontalAlignment="Left" Margin="282,0,0,34" Name="Seek"
+ 		VerticalAlignment="Bottom" Width="75">Seek</Button>
+        <Grid.Triggers>
+            <EventTrigger RoutedEvent="Button.Click" SourceName="Start">
+                <BeginStoryboard Name="BeginAnimation">
+                    <Storyboard>
+                        <DoubleAnimation Storyboard.TargetName="Circle"
+ 			Storyboard.TargetProperty="Width" Duration="0:0:3" From="70" To="400"/>
+                    </Storyboard>
+                </BeginStoryboard>
+            </EventTrigger>
+            <EventTrigger RoutedEvent="Button.Click" SourceName="Stop">
+                <StopStoryboard BeginStoryboardName="BeginAnimation"/>
+            </EventTrigger>
+            <EventTrigger RoutedEvent="Button.Click" SourceName="Pause">
+                <PauseStoryboard BeginStoryboardName="BeginAnimation"/>
+            </EventTrigger>
+            <EventTrigger RoutedEvent="Button.Click" SourceName="Resume">
+                <ResumeStoryboard BeginStoryboardName="BeginAnimation"/>
+            </EventTrigger>
+            <EventTrigger RoutedEvent="Button.Click" SourceName="SkipToFill">
+                <SkipStoryboardToFill BeginStoryboardName="BeginAnimation"/>
+            </EventTrigger>
+            <EventTrigger RoutedEvent="Button.Click" SourceName="Seek">
+                <SeekStoryboard BeginStoryboardName="BeginAnimation" Offset="0:0:1"
+ 			Origin="BeginTime"/>
+            </EventTrigger>
+        </Grid.Triggers>
+    </Grid>
+</Window>

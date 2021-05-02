@@ -1,0 +1,39 @@
+D:\Black Books\C# 2010\Chapter 12\ImageControl\ImageControl\bin\Debug\ImageControl.exe
+D:\Black Books\C# 2010\Chapter 12\ImageControl\ImageControl\bin\Debug\ImageControl.pdb
+D:\Black Books\C# 2010\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\MainWindow.baml
+D:\Black Books\C# 2010\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\MainWindow.g.cs
+D:\Black Books\C# 2010\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\App.g.cs
+D:\Black Books\C# 2010\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\ImageControl_MarkupCompile.cache
+D:\Black Books\C# 2010\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\ImageControl.g.resources
+D:\Black Books\C# 2010\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\ImageControl.Properties.Resources.resources
+D:\Black Books\C# 2010\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Black Books\C# 2010\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Black Books\C# 2010\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\ImageControl.exe
+D:\Black Books\C# 2010\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\ImageControl.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\ImageControl.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\ImageControl.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\ImageControl\ImageControl\bin\Debug\ImageControl.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\ImageControl\ImageControl\bin\Debug\ImageControl.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\MainWindow.baml
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\MainWindow.g.cs
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\App.g.cs
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\ImageControl_MarkupCompile.cache
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\ImageControl.g.resources
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\ImageControl.Properties.Resources.resources
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\GenerateResource.write.1.tlog
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\ImageControl.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\ImageControl.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\ImageControl\ImageControl\bin\Debug\ImageControl.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\ImageControl\ImageControl\bin\Debug\ImageControl.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\MainWindow.baml
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\MainWindow.g.cs
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\App.g.cs
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\ImageControl_MarkupCompile.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\ImageControl.g.resources
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\ImageControl.Properties.Resources.resources
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\GenerateResource.read.1.tlog
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\ImageControl\ImageControl\obj\x86\Debug\GenerateResource.write.1.tlog

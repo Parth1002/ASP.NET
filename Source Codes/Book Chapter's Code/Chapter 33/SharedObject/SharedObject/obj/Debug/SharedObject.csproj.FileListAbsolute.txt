@@ -1,0 +1,5 @@
+D:\Black Books\C# 2010\Chapter 33\Code\SharedObject\SharedObject\bin\Debug\SharedObject.dll
+D:\Black Books\C# 2010\Chapter 33\Code\SharedObject\SharedObject\bin\Debug\SharedObject.pdb
+D:\Black Books\C# 2010\Chapter 33\Code\SharedObject\SharedObject\obj\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\Chapter 33\Code\SharedObject\SharedObject\obj\Debug\SharedObject.dll
+D:\Black Books\C# 2010\Chapter 33\Code\SharedObject\SharedObject\obj\Debug\SharedObject.pdb

@@ -1,0 +1,12 @@
+C:\BlackBooks\C#2010\Chapter 6\SubtractPointer\SubtractPointer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\BlackBooks\C#2010\Chapter 6\SubtractPointer\SubtractPointer\bin\Debug\SubtractPointer.exe
+C:\BlackBooks\C#2010\Chapter 6\SubtractPointer\SubtractPointer\bin\Debug\SubtractPointer.pdb
+C:\BlackBooks\C#2010\Chapter 6\SubtractPointer\SubtractPointer\obj\x86\Debug\SubtractPointer.exe
+C:\BlackBooks\C#2010\Chapter 6\SubtractPointer\SubtractPointer\obj\x86\Debug\SubtractPointer.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 6\SubtractPointer\SubtractPointer\obj\x86\Debug\SubtractPointer.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 6\SubtractPointer\SubtractPointer\obj\x86\Debug\SubtractPointer.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 6\SubtractPointer\SubtractPointer\bin\Debug\SubtractPointer.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 6\SubtractPointer\SubtractPointer\bin\Debug\SubtractPointer.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 6\SubtractPointer\SubtractPointer\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 6\SubtractPointer\SubtractPointer\obj\x86\Debug\SubtractPointer.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 6\SubtractPointer\SubtractPointer\obj\x86\Debug\SubtractPointer.pdb

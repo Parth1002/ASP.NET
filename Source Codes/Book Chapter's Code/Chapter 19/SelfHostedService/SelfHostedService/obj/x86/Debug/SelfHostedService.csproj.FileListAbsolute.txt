@@ -1,0 +1,13 @@
+D:\Black Books\C# 2010\CD Chapter\Chapter 19\Code\SelfHostedService\SelfHostedService\bin\Debug\SelfHostedService.exe.config
+D:\Black Books\C# 2010\CD Chapter\Chapter 19\Code\SelfHostedService\SelfHostedService\bin\Debug\SelfHostedService.exe
+D:\Black Books\C# 2010\CD Chapter\Chapter 19\Code\SelfHostedService\SelfHostedService\bin\Debug\SelfHostedService.pdb
+D:\Black Books\C# 2010\CD Chapter\Chapter 19\Code\SelfHostedService\SelfHostedService\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\CD Chapter\Chapter 19\Code\SelfHostedService\SelfHostedService\obj\x86\Debug\SelfHostedService.Form1.resources
+D:\Black Books\C# 2010\CD Chapter\Chapter 19\Code\SelfHostedService\SelfHostedService\obj\x86\Debug\SelfHostedService.Properties.Resources.resources
+D:\Black Books\C# 2010\CD Chapter\Chapter 19\Code\SelfHostedService\SelfHostedService\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Black Books\C# 2010\CD Chapter\Chapter 19\Code\SelfHostedService\SelfHostedService\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Black Books\C# 2010\CD Chapter\Chapter 19\Code\SelfHostedService\SelfHostedService\obj\x86\Debug\SelfHostedService.exe
+D:\Black Books\C# 2010\CD Chapter\Chapter 19\Code\SelfHostedService\SelfHostedService\obj\x86\Debug\SelfHostedService.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\chapter19\SelfHostedService\SelfHostedService\bin\Debug\SelfHostedService.exe.config
+D:\anil\Black book\C# 2010 blackbook\cd_code\chapter19\SelfHostedService\SelfHostedService\obj\x86\Debug\SelfHostedService.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\chapter19\SelfHostedService\SelfHostedService\obj\x86\Debug\SelfHostedService.pdb

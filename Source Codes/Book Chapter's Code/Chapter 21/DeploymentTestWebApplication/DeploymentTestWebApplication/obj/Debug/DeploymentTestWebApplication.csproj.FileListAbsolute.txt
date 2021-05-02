@@ -1,0 +1,10 @@
+D:\Black Books\C# 2010\Chapter 21\DeploymentTestWebApplication\DeploymentTestWebApplication\bin\DeploymentTestWebApplication.dll
+D:\Black Books\C# 2010\Chapter 21\DeploymentTestWebApplication\DeploymentTestWebApplication\bin\DeploymentTestWebApplication.pdb
+D:\Black Books\C# 2010\Chapter 21\DeploymentTestWebApplication\DeploymentTestWebApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\Chapter 21\DeploymentTestWebApplication\DeploymentTestWebApplication\obj\Debug\DeploymentTestWebApplication.dll
+D:\Black Books\C# 2010\Chapter 21\DeploymentTestWebApplication\DeploymentTestWebApplication\obj\Debug\DeploymentTestWebApplication.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeploymentTestWebApplication\DeploymentTestWebApplication\bin\DeploymentTestWebApplication.dll
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeploymentTestWebApplication\DeploymentTestWebApplication\bin\DeploymentTestWebApplication.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeploymentTestWebApplication\DeploymentTestWebApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeploymentTestWebApplication\DeploymentTestWebApplication\obj\Debug\DeploymentTestWebApplication.dll
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeploymentTestWebApplication\DeploymentTestWebApplication\obj\Debug\DeploymentTestWebApplication.pdb

@@ -1,0 +1,39 @@
+﻿<Window x:Class="Drawing_VisualBrush.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Name="button1">
+            <Button.Background>
+                <DrawingBrush>
+                    <DrawingBrush.Drawing>
+                        <GeometryDrawing Brush="Firebrick">
+                            <GeometryDrawing.Geometry>
+                                <GeometryGroup>
+                                    <EllipseGeometry RadiusX="50" RadiusY="12"/>
+                                    <EllipseGeometry RadiusX="45" RadiusY="10"/>
+                                    <EllipseGeometry RadiusX="30" RadiusY="7"/>
+                                    <EllipseGeometry RadiusX="20" RadiusY="5"/>
+                                </GeometryGroup>
+                            </GeometryDrawing.Geometry>
+                        </GeometryDrawing>
+                    </DrawingBrush.Drawing>
+                </DrawingBrush>
+            </Button.Background>
+        </Button>
+        <Rectangle Margin="79,83,76,83" Name="rectangle1" Stroke="Gold">
+            <Rectangle.Fill>
+                <VisualBrush>
+                    <VisualBrush.Visual>
+                        <StackPanel Background="AntiqueWhite">
+                            <TextBlock FontSize="10pt" Margin="3">
+                                Hello!!!!
+                            </TextBlock>
+                        </StackPanel>
+                    </VisualBrush.Visual>
+                </VisualBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+    </Grid>
+
+</Window>

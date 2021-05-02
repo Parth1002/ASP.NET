@@ -1,0 +1,5 @@
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\MyMediaPlayerAppCS\MyMediaPlayerAppCS.Web\bin\MyMediaPlayerAppCS.Web.dll
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\MyMediaPlayerAppCS\MyMediaPlayerAppCS.Web\bin\MyMediaPlayerAppCS.Web.pdb
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\MyMediaPlayerAppCS\MyMediaPlayerAppCS.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\MyMediaPlayerAppCS\MyMediaPlayerAppCS.Web\obj\Debug\MyMediaPlayerAppCS.Web.dll
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\MyMediaPlayerAppCS\MyMediaPlayerAppCS.Web\obj\Debug\MyMediaPlayerAppCS.Web.pdb

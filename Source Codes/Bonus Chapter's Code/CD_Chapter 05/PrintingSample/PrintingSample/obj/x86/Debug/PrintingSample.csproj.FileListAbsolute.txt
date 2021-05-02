@@ -1,0 +1,10 @@
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\PrintingSample\PrintingSample\bin\Debug\PrintingSample.exe
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\PrintingSample\PrintingSample\bin\Debug\PrintingSample.pdb
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\PrintingSample\PrintingSample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\PrintingSample\PrintingSample\obj\x86\Debug\PrintingSample.Form1.resources
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\PrintingSample\PrintingSample\obj\x86\Debug\PrintingSample.Properties.Resources.resources
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\PrintingSample\PrintingSample\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\PrintingSample\PrintingSample\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\PrintingSample\PrintingSample\obj\x86\Debug\PrintingSample.exe
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\PrintingSample\PrintingSample\obj\x86\Debug\PrintingSample.pdb
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\PrintingSample\PrintingSample\obj\x86\Debug\PrintingSample.Form2.resources

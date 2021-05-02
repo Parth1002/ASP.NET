@@ -1,0 +1,28 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Black Books\C# 2010\Chapter 19\Code\WinServiceHost\WinServiceHost\bin\Debug\WinserviceHost.exe assembly's progress.
+The file is located at D:\Black Books\C# 2010\Chapter 19\Code\WinServiceHost\WinServiceHost\bin\Debug\WinserviceHost.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Black Books\C# 2010\Chapter 19\Code\WinServiceHost\WinServiceHost\bin\Debug\WinserviceHost.exe assembly's progress.
+The file is located at D:\Black Books\C# 2010\Chapter 19\Code\WinServiceHost\WinServiceHost\bin\Debug\WinserviceHost.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\anil\Black book\C# 2010 blackbook\cd_code\chapter19\WinServiceHost\WinServiceHost\bin\Debug\WinServiceHost.exe assembly's progress.
+The file is located at D:\anil\Black book\C# 2010 blackbook\cd_code\chapter19\WinServiceHost\WinServiceHost\bin\Debug\WinServiceHost.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\anil\Black book\C# 2010 blackbook\cd_code\chapter19\WinServiceHost\WinServiceHost\bin\Debug\WinServiceHost.exe assembly's progress.
+The file is located at D:\anil\Black book\C# 2010 blackbook\cd_code\chapter19\WinServiceHost\WinServiceHost\bin\Debug\WinServiceHost.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.

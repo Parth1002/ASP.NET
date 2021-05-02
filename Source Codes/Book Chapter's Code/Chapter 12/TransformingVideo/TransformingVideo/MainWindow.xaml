@@ -1,0 +1,19 @@
+﻿<Window x:Class="TransformingVideo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <MediaElement Source="D:\wmvfiles\Clip_1080_5sec_VC1_15mbps.wmv"
+ 		Margin="41,0,27,36" 
+		Name="myMedia" LoadedBehavior="Manual">
+            <MediaElement.LayoutTransform>
+                <TransformGroup>
+                    <RotateTransform Angle="400" />
+                </TransformGroup>
+            </MediaElement.LayoutTransform>
+        </MediaElement>
+        <Button Height="23" Margin="104,0,99,18" Name="button1" VerticalAlignment="Bottom"
+ 		Click="button1_Click">Play</Button>
+
+    </Grid>
+</Window>

@@ -1,0 +1,28 @@
+D:\Black Books\C# 2010\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\bin\Debug\TextBox_LabelControl.exe
+D:\Black Books\C# 2010\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\bin\Debug\TextBox_LabelControl.pdb
+D:\Black Books\C# 2010\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\obj\x86\Debug\TextBox_LabelControl.Form1.resources
+D:\Black Books\C# 2010\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\obj\x86\Debug\TextBox_LabelControl.Properties.Resources.resources
+D:\Black Books\C# 2010\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Black Books\C# 2010\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Black Books\C# 2010\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\obj\x86\Debug\TextBox_LabelControl.exe
+D:\Black Books\C# 2010\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\obj\x86\Debug\TextBox_LabelControl.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\obj\x86\Debug\TextBox_LabelControl.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\obj\x86\Debug\TextBox_LabelControl.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\bin\Debug\TextBox_LabelControl.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\bin\Debug\TextBox_LabelControl.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\obj\x86\Debug\TextBox_LabelControl.Form1.resources
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\obj\x86\Debug\TextBox_LabelControl.Properties.Resources.resources
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\obj\x86\Debug\GenerateResource.write.1.tlog
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\obj\x86\Debug\TextBox_LabelControl.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\obj\x86\Debug\TextBox_LabelControl.pdb
+F:\ASP.NET\Source Codes\Book Chapter's Code\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\bin\Debug\TextBox_LabelControl.exe
+F:\ASP.NET\Source Codes\Book Chapter's Code\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\bin\Debug\TextBox_LabelControl.pdb
+F:\ASP.NET\Source Codes\Book Chapter's Code\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\obj\x86\Debug\TextBox_LabelControl.csprojAssemblyReference.cache
+F:\ASP.NET\Source Codes\Book Chapter's Code\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\obj\x86\Debug\TextBox_LabelControl.Form1.resources
+F:\ASP.NET\Source Codes\Book Chapter's Code\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\obj\x86\Debug\TextBox_LabelControl.Properties.Resources.resources
+F:\ASP.NET\Source Codes\Book Chapter's Code\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\obj\x86\Debug\TextBox_LabelControl.csproj.GenerateResource.cache
+F:\ASP.NET\Source Codes\Book Chapter's Code\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\obj\x86\Debug\TextBox_LabelControl.exe
+F:\ASP.NET\Source Codes\Book Chapter's Code\Chapter 25\TextBox_LabelControl\TextBox_LabelControl\obj\x86\Debug\TextBox_LabelControl.pdb

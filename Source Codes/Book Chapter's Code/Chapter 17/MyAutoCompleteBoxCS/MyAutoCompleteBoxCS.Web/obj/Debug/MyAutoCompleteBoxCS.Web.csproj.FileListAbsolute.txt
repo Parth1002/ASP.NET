@@ -1,0 +1,5 @@
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\MyAutoCompleteBoxCS\MyAutoCompleteBoxCS.Web\bin\MyAutoCompleteBoxCS.Web.dll
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\MyAutoCompleteBoxCS\MyAutoCompleteBoxCS.Web\bin\MyAutoCompleteBoxCS.Web.pdb
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\MyAutoCompleteBoxCS\MyAutoCompleteBoxCS.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\MyAutoCompleteBoxCS\MyAutoCompleteBoxCS.Web\obj\Debug\MyAutoCompleteBoxCS.Web.dll
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\MyAutoCompleteBoxCS\MyAutoCompleteBoxCS.Web\obj\Debug\MyAutoCompleteBoxCS.Web.pdb

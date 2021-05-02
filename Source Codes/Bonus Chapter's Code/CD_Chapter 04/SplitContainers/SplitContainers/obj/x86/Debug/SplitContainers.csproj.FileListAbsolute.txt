@@ -1,0 +1,18 @@
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\SplitContainers\SplitContainers\bin\Debug\SplitContainers.exe
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\SplitContainers\SplitContainers\bin\Debug\SplitContainers.pdb
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\SplitContainers\SplitContainers\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\SplitContainers\SplitContainers\obj\x86\Debug\SplitContainers.Form1.resources
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\SplitContainers\SplitContainers\obj\x86\Debug\SplitContainers.Properties.Resources.resources
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\SplitContainers\SplitContainers\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\SplitContainers\SplitContainers\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\SplitContainers\SplitContainers\obj\x86\Debug\SplitContainers.exe
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\SplitContainers\SplitContainers\obj\x86\Debug\SplitContainers.pdb
+D:\CSharp 2010 Black book\CD Chapters\Chapter 04\Code\SplitContainers\SplitContainers\obj\x86\Debug\SplitContainers.exe
+D:\CSharp 2010 Black book\CD Chapters\Chapter 04\Code\SplitContainers\SplitContainers\obj\x86\Debug\SplitContainers.pdb
+D:\CSharp 2010 Black book\CD Chapters\Chapter 04\Code\SplitContainers\SplitContainers\bin\Debug\SplitContainers.exe
+D:\CSharp 2010 Black book\CD Chapters\Chapter 04\Code\SplitContainers\SplitContainers\bin\Debug\SplitContainers.pdb
+D:\CSharp 2010 Black book\CD Chapters\Chapter 04\Code\SplitContainers\SplitContainers\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CSharp 2010 Black book\CD Chapters\Chapter 04\Code\SplitContainers\SplitContainers\obj\x86\Debug\SplitContainers.Form1.resources
+D:\CSharp 2010 Black book\CD Chapters\Chapter 04\Code\SplitContainers\SplitContainers\obj\x86\Debug\SplitContainers.Properties.Resources.resources
+D:\CSharp 2010 Black book\CD Chapters\Chapter 04\Code\SplitContainers\SplitContainers\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CSharp 2010 Black book\CD Chapters\Chapter 04\Code\SplitContainers\SplitContainers\obj\x86\Debug\GenerateResource.write.1.tlog

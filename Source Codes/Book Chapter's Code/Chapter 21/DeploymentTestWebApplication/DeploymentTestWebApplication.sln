@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeploymentTestWebApplication", "DeploymentTestWebApplication\DeploymentTestWebApplication.csproj", "{29FD1558-59AE-4A70-B67F-385D9A373D26}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DeploymentTestWebSetup", "DeploymentTestWebSetup\DeploymentTestWebSetup.vdproj", "{4D7A4518-BE6D-4CAC-A63E-569813B76516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29FD1558-59AE-4A70-B67F-385D9A373D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29FD1558-59AE-4A70-B67F-385D9A373D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29FD1558-59AE-4A70-B67F-385D9A373D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29FD1558-59AE-4A70-B67F-385D9A373D26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D7A4518-BE6D-4CAC-A63E-569813B76516}.Debug|Any CPU.ActiveCfg = Debug
+		{4D7A4518-BE6D-4CAC-A63E-569813B76516}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

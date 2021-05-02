@@ -1,0 +1,5 @@
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\HTTP\MathOperation\MathOperation\bin\Debug\MathOperation.dll
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\HTTP\MathOperation\MathOperation\bin\Debug\MathOperation.pdb
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\HTTP\MathOperation\MathOperation\obj\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\HTTP\MathOperation\MathOperation\obj\Debug\MathOperation.dll
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\HTTP\MathOperation\MathOperation\obj\Debug\MathOperation.pdb

@@ -1,0 +1,39 @@
+D:\Black Books\C# 2010\Chapter 12\DoubleAnimation\DoubleAnimation\bin\Debug\DoubleAnimation.exe
+D:\Black Books\C# 2010\Chapter 12\DoubleAnimation\DoubleAnimation\bin\Debug\DoubleAnimation.pdb
+D:\Black Books\C# 2010\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\MainWindow.baml
+D:\Black Books\C# 2010\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\MainWindow.g.cs
+D:\Black Books\C# 2010\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\App.g.cs
+D:\Black Books\C# 2010\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\DoubleAnimation_MarkupCompile.cache
+D:\Black Books\C# 2010\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\DoubleAnimation.g.resources
+D:\Black Books\C# 2010\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\DoubleAnimation.Properties.Resources.resources
+D:\Black Books\C# 2010\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Black Books\C# 2010\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Black Books\C# 2010\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\DoubleAnimation.exe
+D:\Black Books\C# 2010\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\DoubleAnimation.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\DoubleAnimation.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\DoubleAnimation.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\DoubleAnimation\DoubleAnimation\bin\Debug\DoubleAnimation.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\DoubleAnimation\DoubleAnimation\bin\Debug\DoubleAnimation.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\MainWindow.baml
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\MainWindow.g.cs
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\App.g.cs
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\DoubleAnimation_MarkupCompile.cache
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\DoubleAnimation.g.resources
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\DoubleAnimation.Properties.Resources.resources
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\GenerateResource.write.1.tlog
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\DoubleAnimation.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\DoubleAnimation.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\DoubleAnimation\DoubleAnimation\bin\Debug\DoubleAnimation.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\DoubleAnimation\DoubleAnimation\bin\Debug\DoubleAnimation.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\MainWindow.baml
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\MainWindow.g.cs
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\App.g.cs
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\DoubleAnimation_MarkupCompile.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\DoubleAnimation.g.resources
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\DoubleAnimation.Properties.Resources.resources
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\GenerateResource.read.1.tlog
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\DoubleAnimation\DoubleAnimation\obj\x86\Debug\GenerateResource.write.1.tlog

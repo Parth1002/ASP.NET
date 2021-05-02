@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calendar_and_DatePicker", "Calendar_and_DatePicker\Calendar_and_DatePicker.csproj", "{0678C30E-5E02-4DA8-B7BA-ECE90CF58C75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0678C30E-5E02-4DA8-B7BA-ECE90CF58C75}.Debug|x86.ActiveCfg = Debug|x86
+		{0678C30E-5E02-4DA8-B7BA-ECE90CF58C75}.Debug|x86.Build.0 = Debug|x86
+		{0678C30E-5E02-4DA8-B7BA-ECE90CF58C75}.Release|x86.ActiveCfg = Release|x86
+		{0678C30E-5E02-4DA8-B7BA-ECE90CF58C75}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

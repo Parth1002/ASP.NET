@@ -1,0 +1,47 @@
+D:\Black Books\C# 2010\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\MainWindow.baml
+D:\Black Books\C# 2010\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\MainWindow.g.cs
+D:\Black Books\C# 2010\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\App.g.cs
+D:\Black Books\C# 2010\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\WPFWindows_MarkupCompile.cache
+D:\Black Books\C# 2010\Chapter 9\WPFWindows\WPFWindows\bin\Debug\WPFWindows.exe
+D:\Black Books\C# 2010\Chapter 9\WPFWindows\WPFWindows\bin\Debug\WPFWindows.pdb
+D:\Black Books\C# 2010\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\Window1.baml
+D:\Black Books\C# 2010\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\Window1.g.cs
+D:\Black Books\C# 2010\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\WPFWindows.g.resources
+D:\Black Books\C# 2010\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\WPFWindows.Properties.Resources.resources
+D:\Black Books\C# 2010\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Black Books\C# 2010\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Black Books\C# 2010\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\WPFWindows.exe
+D:\Black Books\C# 2010\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\WPFWindows.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\WPFWindows.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\WPFWindows.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 9\WPFWindows\WPFWindows\bin\Debug\WPFWindows.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 9\WPFWindows\WPFWindows\bin\Debug\WPFWindows.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\MainWindow.baml
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\Window1.baml
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\MainWindow.g.cs
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\Window1.g.cs
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\App.g.cs
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\WPFWindows_MarkupCompile.cache
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\WPFWindows.g.resources
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\WPFWindows.Properties.Resources.resources
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\anil\Black book\C# 2010 blackbook\cd_code\codes_final\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\WPFWindows.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\codes_final\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\WPFWindows.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\WPFWindows.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\WPFWindows.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 9\WPFWindows\WPFWindows\bin\Debug\WPFWindows.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 9\WPFWindows\WPFWindows\bin\Debug\WPFWindows.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\MainWindow.baml
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\Window1.baml
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\MainWindow.g.cs
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\Window1.g.cs
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\App.g.cs
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\WPFWindows_MarkupCompile.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\WPFWindows.g.resources
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\WPFWindows.Properties.Resources.resources
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\GenerateResource.read.1.tlog
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 9\WPFWindows\WPFWindows\obj\x86\Debug\GenerateResource.write.1.tlog

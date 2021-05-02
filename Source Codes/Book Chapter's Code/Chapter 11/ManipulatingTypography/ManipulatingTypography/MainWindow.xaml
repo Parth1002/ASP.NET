@@ -1,0 +1,9 @@
+﻿<Window x:Class="ManipulatingTypography.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="100" Width="300">
+    <TextBlock FontFamily="P" FontSize="18" Typography.Fraction="Normal" IsHitTestVisible="True" Height="30">
+	<Run Typography.Capitals="AllSmallCaps">WATER</Run> =  H<Run 
+	 Typography.Variants="Subscript">2O</Run>(3/4 OF LAND)
+    </TextBlock>
+</Window>

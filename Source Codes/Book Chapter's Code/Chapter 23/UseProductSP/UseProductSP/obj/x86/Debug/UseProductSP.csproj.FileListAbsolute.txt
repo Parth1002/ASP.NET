@@ -1,0 +1,5 @@
+D:\Black Books\C# 2010\Appendix E\UseProductSP\UseProductSP\bin\Debug\UseProductSP.exe
+D:\Black Books\C# 2010\Appendix E\UseProductSP\UseProductSP\bin\Debug\UseProductSP.pdb
+D:\Black Books\C# 2010\Appendix E\UseProductSP\UseProductSP\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\Appendix E\UseProductSP\UseProductSP\obj\x86\Debug\UseProductSP.exe
+D:\Black Books\C# 2010\Appendix E\UseProductSP\UseProductSP\obj\x86\Debug\UseProductSP.pdb

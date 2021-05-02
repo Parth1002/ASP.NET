@@ -1,0 +1,26 @@
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\CodeFiles\Chapter 22\CS\ScriptLocalizationCS\ScriptLocalizationCS\bin\ScriptLocalizationCS.dll
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\CodeFiles\Chapter 22\CS\ScriptLocalizationCS\ScriptLocalizationCS\bin\ScriptLocalizationCS.pdb
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\CodeFiles\Chapter 22\CS\ScriptLocalizationCS\ScriptLocalizationCS\bin\LocalizingResources.dll
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\CodeFiles\Chapter 22\CS\ScriptLocalizationCS\ScriptLocalizationCS\bin\LocalizingResources.pdb
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\CodeFiles\Chapter 22\CS\ScriptLocalizationCS\ScriptLocalizationCS\bin\ru\LocalizingResources.resources.dll
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\CodeFiles\Chapter 22\CS\ScriptLocalizationCS\ScriptLocalizationCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\CodeFiles\Chapter 22\CS\ScriptLocalizationCS\ScriptLocalizationCS\obj\Debug\ScriptLocalizationCS.dll
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\CodeFiles\Chapter 22\CS\ScriptLocalizationCS\ScriptLocalizationCS\obj\Debug\ScriptLocalizationCS.pdb
+D:\Black Books\C# 2010\CD Chapters\Chapter 9\ScriptLocalizationCS\ScriptLocalizationCS\bin\ScriptLocalizationCS.dll
+D:\Black Books\C# 2010\CD Chapters\Chapter 9\ScriptLocalizationCS\ScriptLocalizationCS\bin\ScriptLocalizationCS.pdb
+D:\Black Books\C# 2010\CD Chapters\Chapter 9\ScriptLocalizationCS\ScriptLocalizationCS\bin\LocalizingResources.dll
+D:\Black Books\C# 2010\CD Chapters\Chapter 9\ScriptLocalizationCS\ScriptLocalizationCS\bin\LocalizingResources.pdb
+D:\Black Books\C# 2010\CD Chapters\Chapter 9\ScriptLocalizationCS\ScriptLocalizationCS\bin\ru\LocalizingResources.resources.dll
+D:\Black Books\C# 2010\CD Chapters\Chapter 9\ScriptLocalizationCS\ScriptLocalizationCS\obj\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\CD Chapters\Chapter 9\ScriptLocalizationCS\ScriptLocalizationCS\obj\Debug\ScriptLocalizationCS.dll
+D:\Black Books\C# 2010\CD Chapters\Chapter 9\ScriptLocalizationCS\ScriptLocalizationCS\obj\Debug\ScriptLocalizationCS.pdb
+F:\ASP.NET\Source Codes\Bonus Chapter's Code\CD_Chapter 09\ScriptLocalizationCS\ScriptLocalizationCS\bin\ScriptLocalizationCS.dll.config
+F:\ASP.NET\Source Codes\Bonus Chapter's Code\CD_Chapter 09\ScriptLocalizationCS\ScriptLocalizationCS\bin\ScriptLocalizationCS.dll
+F:\ASP.NET\Source Codes\Bonus Chapter's Code\CD_Chapter 09\ScriptLocalizationCS\ScriptLocalizationCS\bin\ScriptLocalizationCS.pdb
+F:\ASP.NET\Source Codes\Bonus Chapter's Code\CD_Chapter 09\ScriptLocalizationCS\ScriptLocalizationCS\bin\LocalizingResources.dll
+F:\ASP.NET\Source Codes\Bonus Chapter's Code\CD_Chapter 09\ScriptLocalizationCS\ScriptLocalizationCS\bin\LocalizingResources.pdb
+F:\ASP.NET\Source Codes\Bonus Chapter's Code\CD_Chapter 09\ScriptLocalizationCS\ScriptLocalizationCS\bin\ru\LocalizingResources.resources.dll
+F:\ASP.NET\Source Codes\Bonus Chapter's Code\CD_Chapter 09\ScriptLocalizationCS\ScriptLocalizationCS\obj\Debug\ScriptLocalizationCS.csprojAssemblyReference.cache
+F:\ASP.NET\Source Codes\Bonus Chapter's Code\CD_Chapter 09\ScriptLocalizationCS\ScriptLocalizationCS\obj\Debug\ScriptLocalizationCS.csproj.CopyComplete
+F:\ASP.NET\Source Codes\Bonus Chapter's Code\CD_Chapter 09\ScriptLocalizationCS\ScriptLocalizationCS\obj\Debug\ScriptLocalizationCS.dll
+F:\ASP.NET\Source Codes\Bonus Chapter's Code\CD_Chapter 09\ScriptLocalizationCS\ScriptLocalizationCS\obj\Debug\ScriptLocalizationCS.pdb

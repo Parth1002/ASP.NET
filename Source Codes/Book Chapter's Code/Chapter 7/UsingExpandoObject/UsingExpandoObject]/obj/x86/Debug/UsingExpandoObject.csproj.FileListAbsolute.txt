@@ -1,0 +1,12 @@
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 7\UsingExpandoObject]\UsingExpandoObject]\bin\Debug\UsingExpandoObject].exe
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 7\UsingExpandoObject]\UsingExpandoObject]\bin\Debug\UsingExpandoObject].pdb
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 7\UsingExpandoObject]\UsingExpandoObject]\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 7\UsingExpandoObject]\UsingExpandoObject]\obj\x86\Debug\UsingExpandoObject].exe
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 7\UsingExpandoObject]\UsingExpandoObject]\obj\x86\Debug\UsingExpandoObject].pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 7\UsingExpandoObject]\UsingExpandoObject]\obj\x86\Debug\UsingExpandoObject].exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 7\UsingExpandoObject]\UsingExpandoObject]\obj\x86\Debug\UsingExpandoObject].pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 7\UsingExpandoObject]\UsingExpandoObject]\bin\Debug\UsingExpandoObject].exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 7\UsingExpandoObject]\UsingExpandoObject]\bin\Debug\UsingExpandoObject].pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 7\UsingExpandoObject]\UsingExpandoObject]\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 7\UsingExpandoObject]\UsingExpandoObject]\obj\x86\Debug\UsingExpandoObject].exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 7\UsingExpandoObject]\UsingExpandoObject]\obj\x86\Debug\UsingExpandoObject].pdb

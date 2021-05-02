@@ -1,0 +1,13 @@
+﻿<Window x:Class="SimpleWPFApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="300" Width="300">
+    <Grid>
+        <Button Margin="100,25,100,200" Name="button1">Welcome</Button>
+        <Button Margin="100,100,100,125" Name="button2">WPF</Button>
+        <Button Margin="50,150,50,10" Name="button3" VerticalAlignment="Bottom">
+            <Label Margin="5,5,5,5" Name="label1">XAML</Label>
+        </Button>
+
+    </Grid>
+</Window>

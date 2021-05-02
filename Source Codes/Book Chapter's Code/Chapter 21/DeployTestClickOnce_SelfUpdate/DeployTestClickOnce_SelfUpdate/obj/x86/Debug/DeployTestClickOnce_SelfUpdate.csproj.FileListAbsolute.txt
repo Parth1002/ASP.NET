@@ -1,0 +1,28 @@
+D:\Black Books\C# 2010\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\bin\Debug\DeployTestClickOnce_SelfUpdate.exe
+D:\Black Books\C# 2010\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\bin\Debug\DeployTestClickOnce_SelfUpdate.pdb
+D:\Black Books\C# 2010\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\obj\x86\Debug\DeployTestClickOnce_SelfUpdate.Form1.resources
+D:\Black Books\C# 2010\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\obj\x86\Debug\DeployTestClickOnce_SelfUpdate.Properties.Resources.resources
+D:\Black Books\C# 2010\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Black Books\C# 2010\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Black Books\C# 2010\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\obj\x86\Debug\DeployTestClickOnce_SelfUpdate.exe
+D:\Black Books\C# 2010\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\obj\x86\Debug\DeployTestClickOnce_SelfUpdate.pdb
+D:\Black Books\C# 2010\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\bin\Debug\DeployTestClickOnce_SelfUpdate.exe.manifest
+D:\Black Books\C# 2010\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\bin\Debug\DeployTestClickOnce_SelfUpdate.application
+D:\Black Books\C# 2010\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\obj\x86\Debug\DeployTestClickOnce_SelfUpdate.exe.manifest
+D:\Black Books\C# 2010\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\obj\x86\Debug\DeployTestClickOnce_SelfUpdate.application
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\obj\x86\Debug\DeployTestClickOnce_SelfUpdate.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\obj\x86\Debug\DeployTestClickOnce_SelfUpdate.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\bin\Debug\DeployTestClickOnce_SelfUpdate.exe.manifest
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\bin\Debug\DeployTestClickOnce_SelfUpdate.application
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\bin\Debug\DeployTestClickOnce_SelfUpdate.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\bin\Debug\DeployTestClickOnce_SelfUpdate.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\obj\x86\Debug\DeployTestClickOnce_SelfUpdate.Form1.resources
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\obj\x86\Debug\DeployTestClickOnce_SelfUpdate.Properties.Resources.resources
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\obj\x86\Debug\DeployTestClickOnce_SelfUpdate.exe.manifest
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\obj\x86\Debug\DeployTestClickOnce_SelfUpdate.application
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\obj\x86\Debug\DeployTestClickOnce_SelfUpdate.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 21\DeployTestClickOnce_SelfUpdate\DeployTestClickOnce_SelfUpdate\obj\x86\Debug\DeployTestClickOnce_SelfUpdate.pdb

@@ -1,0 +1,12 @@
+C:\BlackBooks\C#2010\Chapter 6\SampleDelegate\SampleDelegate\bin\Debug\SampleDelegate.exe
+C:\BlackBooks\C#2010\Chapter 6\SampleDelegate\SampleDelegate\bin\Debug\SampleDelegate.pdb
+C:\BlackBooks\C#2010\Chapter 6\SampleDelegate\SampleDelegate\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\BlackBooks\C#2010\Chapter 6\SampleDelegate\SampleDelegate\obj\x86\Debug\SampleDelegate.exe
+C:\BlackBooks\C#2010\Chapter 6\SampleDelegate\SampleDelegate\obj\x86\Debug\SampleDelegate.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 6\SampleDelegate\SampleDelegate\obj\x86\Debug\SampleDelegate.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 6\SampleDelegate\SampleDelegate\obj\x86\Debug\SampleDelegate.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 6\SampleDelegate\SampleDelegate\bin\Debug\SampleDelegate.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 6\SampleDelegate\SampleDelegate\bin\Debug\SampleDelegate.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 6\SampleDelegate\SampleDelegate\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 6\SampleDelegate\SampleDelegate\obj\x86\Debug\SampleDelegate.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 6\SampleDelegate\SampleDelegate\obj\x86\Debug\SampleDelegate.pdb

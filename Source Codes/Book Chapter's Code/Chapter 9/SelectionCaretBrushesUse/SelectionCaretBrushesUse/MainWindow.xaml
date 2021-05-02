@@ -1,0 +1,12 @@
+﻿<Window x:Class="SelectionCaretBrushesUse.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox SelectionBrush="Yellow" SelectionOpacity="0.8"
+         Foreground="Green" CaretBrush="Red">
+            You are using the SelectionBrush and CaretBrush properties.
+        </TextBox>
+
+    </Grid>
+</Window>

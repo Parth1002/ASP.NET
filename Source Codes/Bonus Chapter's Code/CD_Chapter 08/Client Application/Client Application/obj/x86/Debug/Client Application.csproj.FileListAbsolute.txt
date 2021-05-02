@@ -1,0 +1,7 @@
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\Client Application\Client Application\bin\Debug\Client Application.exe
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\Client Application\Client Application\bin\Debug\Client Application.pdb
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\Client Application\Client Application\bin\Debug\Component.dll
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\Client Application\Client Application\bin\Debug\Component.pdb
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\Client Application\Client Application\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\Client Application\Client Application\obj\x86\Debug\Client Application.exe
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\Client Application\Client Application\obj\x86\Debug\Client Application.pdb

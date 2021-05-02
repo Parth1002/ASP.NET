@@ -1,0 +1,12 @@
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 3\MyThrowException\MyThrowException\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 3\MyThrowException\MyThrowException\bin\Debug\MyThrowException.exe
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 3\MyThrowException\MyThrowException\bin\Debug\MyThrowException.pdb
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 3\MyThrowException\MyThrowException\obj\x86\Debug\MyThrowException.exe
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 3\MyThrowException\MyThrowException\obj\x86\Debug\MyThrowException.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 3\MyThrowException\MyThrowException\obj\x86\Debug\MyThrowException.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 3\MyThrowException\MyThrowException\obj\x86\Debug\MyThrowException.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 3\MyThrowException\MyThrowException\bin\Debug\MyThrowException.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 3\MyThrowException\MyThrowException\bin\Debug\MyThrowException.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 3\MyThrowException\MyThrowException\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 3\MyThrowException\MyThrowException\obj\x86\Debug\MyThrowException.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 3\MyThrowException\MyThrowException\obj\x86\Debug\MyThrowException.pdb

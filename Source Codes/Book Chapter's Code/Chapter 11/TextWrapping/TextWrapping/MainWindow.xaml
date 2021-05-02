@@ -1,0 +1,13 @@
+﻿<Window x:Class="TextWrapping.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="120" Width="300">
+    <Grid>
+        <TextBlock FontFamily="Century Gothic" FontSize="15" FontWeight="Bold" 
+		 TextAlignment="Left" TextWrapping="Wrap">
+			This is an example of text wrapping in a TextBlock. The text appears as in 
+			the next line.
+        </TextBlock>
+
+    </Grid>
+</Window>

@@ -1,0 +1,42 @@
+D:\Black Books\C# 2010\Chapter 28\BookmarkResume\BookmarkResume\bin\Debug\BookmarkResume.exe.config
+D:\Black Books\C# 2010\Chapter 28\BookmarkResume\BookmarkResume\bin\Debug\BookmarkResume.exe
+D:\Black Books\C# 2010\Chapter 28\BookmarkResume\BookmarkResume\bin\Debug\BookmarkResume.pdb
+D:\Black Books\C# 2010\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\Workflow1.g.xaml
+D:\Black Books\C# 2010\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\_BookmarkResume.g.cs
+D:\Black Books\C# 2010\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\Workflow1.g.cs
+D:\Black Books\C# 2010\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\BookmarkResume.csproj.XamlGeneratedCodeFileListAbsolute.txt
+D:\Black Books\C# 2010\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\BookmarkResume.csproj.XamlGeneratedXamlFileListAbsolute.txt
+D:\Black Books\C# 2010\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\InProcessTempFiles\Workflow1.g.cs
+D:\Black Books\C# 2010\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\InProcessTempFiles\Workflow1.g.xaml
+D:\Black Books\C# 2010\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\InProcessTempFiles\_BookmarkResume.g.cs
+D:\Black Books\C# 2010\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\BookmarkResume.exe
+D:\Black Books\C# 2010\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\BookmarkResume.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 28\BookmarkResume\BookmarkResume\bin\Debug\BookmarkResume.exe.config
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\BookmarkResume.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\BookmarkResume.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 28\BookmarkResume\BookmarkResume\bin\Debug\BookmarkResume.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 28\BookmarkResume\BookmarkResume\bin\Debug\BookmarkResume.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\Workflow1.g.xaml
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\_BookmarkResume.g.cs
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\Workflow1.g.cs
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\BookmarkResume.csproj.XamlGeneratedCodeFileListAbsolute.txt
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\BookmarkResume.csproj.XamlGeneratedXamlFileListAbsolute.txt
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\InProcessTempFiles\Workflow1.g.cs
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\InProcessTempFiles\Workflow1.g.xaml
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\InProcessTempFiles\_BookmarkResume.g.cs
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 28\BookmarkResume\BookmarkResume\bin\Debug\BookmarkResume.exe.config
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\BookmarkResume.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\BookmarkResume.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 28\BookmarkResume\BookmarkResume\bin\Debug\BookmarkResume.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 28\BookmarkResume\BookmarkResume\bin\Debug\BookmarkResume.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\Workflow1.g.xaml
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\_BookmarkResume.g.cs
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\Workflow1.g.cs
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\BookmarkResume.csproj.XamlGeneratedCodeFileListAbsolute.txt
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\BookmarkResume.csproj.XamlGeneratedXamlFileListAbsolute.txt
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\InProcessTempFiles\Workflow1.g.cs
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\InProcessTempFiles\Workflow1.g.xaml
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 28\BookmarkResume\BookmarkResume\obj\x86\Debug\InProcessTempFiles\_BookmarkResume.g.cs

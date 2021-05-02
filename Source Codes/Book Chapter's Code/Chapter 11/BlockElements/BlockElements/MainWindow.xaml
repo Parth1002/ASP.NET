@@ -1,0 +1,88 @@
+﻿<Window x:Class="BlockElements.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="440" Width="400">
+    <FlowDocumentReader Height="400">
+        <FlowDocument FontSize="14">
+            <Paragraph>This is a Block-level element. It creates paragraphs.
+            </Paragraph>
+            <Section>
+                <Paragraph>This groups another block elements.
+                </Paragraph>
+            </Section>
+            <List MarkerOffset="10" MarkerStyle="UpperLatin" StartIndex="1">
+                <ListItem>
+                    <Paragraph>Block Elements
+                    </Paragraph>
+                    <List Margin="0" Padding="1" MarkerStyle="LowerRoman">
+                        <ListItem Margin="30,0,0,0">
+                            <Paragraph>Paragraph
+                            </Paragraph>
+                        </ListItem>
+                    </List>
+                    <List Margin="0" Padding="1" MarkerStyle="LowerRoman" StartIndex="2">
+                        <ListItem Margin="30,0,0,0">
+                            <Paragraph>Section
+                            </Paragraph>
+                        </ListItem>
+                    </List>
+                    <List Margin="0" Padding="1" MarkerStyle="LowerRoman" StartIndex="3">
+                        <ListItem Margin="30,0,0,0">
+                            <Paragraph>Table
+                            </Paragraph>
+                        </ListItem>
+                    </List>
+                </ListItem>
+            </List>
+            <BlockUIContainer>
+                <StackPanel>
+                    <Label>Choose a value:
+                    </Label>
+                    <RadioButton>a
+                    </RadioButton>
+                    <RadioButton>b
+                    </RadioButton>
+                    <RadioButton>c
+                    </RadioButton>
+                    <Button Height="30">Click Me
+                    </Button>
+                </StackPanel>
+            </BlockUIContainer>
+            <Table CellSpacing="5">
+                <Table.Columns>
+                    <TableColumn/>
+                    <TableColumn/>
+                    <TableColumn/>
+                </Table.Columns>
+                <TableRowGroup>
+                    <TableRow Background="LightBlue">
+                        <TableCell ColumnSpan="4" TextAlignment="Center">
+                            <Paragraph FontSize="20" FontWeight="Bold">Block Containers
+                            </Paragraph>
+                        </TableCell>
+                    </TableRow>
+                    <TableRow Background="LightPink">
+                        <TableCell>
+                            <Paragraph>Table
+                            </Paragraph>
+                        </TableCell>
+                        <TableCell>
+                            <Paragraph>Section
+                            </Paragraph>
+                        </TableCell>
+                    </TableRow>
+                    <TableRow Background="Gray">
+                        <TableCell>
+                            <Paragraph>1
+                            </Paragraph>
+                        </TableCell>
+                        <TableCell>
+                            <Paragraph>a
+                            </Paragraph>
+                        </TableCell>
+                    </TableRow>
+                </TableRowGroup>
+            </Table>
+        </FlowDocument>
+    </FlowDocumentReader>
+</Window>

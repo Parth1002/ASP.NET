@@ -1,0 +1,24 @@
+C:\Users\TestUser\Desktop\Invoice\Invoice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TestUser\Desktop\Invoice\Invoice\obj\x86\Debug\Invoice.Form1.resources
+C:\Users\TestUser\Desktop\Invoice\Invoice\obj\x86\Debug\Invoice.Properties.Resources.resources
+C:\Users\TestUser\Desktop\Invoice\Invoice\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TestUser\Desktop\Invoice\Invoice\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TestUser\Desktop\Invoice\Invoice\bin\Debug\Invoice.exe
+C:\Users\TestUser\Desktop\Invoice\Invoice\bin\Debug\Invoice.pdb
+C:\Users\TestUser\Desktop\Invoice\Invoice\bin\Debug\MyLogo.dll
+C:\Users\TestUser\Desktop\Invoice\Invoice\bin\Debug\MyLogo.pdb
+C:\Users\TestUser\Desktop\Invoice\Invoice\obj\x86\Debug\Invoice.exe
+C:\Users\TestUser\Desktop\Invoice\Invoice\obj\x86\Debug\Invoice.pdb
+D:\C#\Invoice\Invoice\obj\x86\Debug\Invoice.exe
+D:\C#\Invoice\Invoice\obj\x86\Debug\Invoice.pdb
+D:\C#\Invoice\Invoice\bin\Debug\Invoice.exe
+D:\C#\Invoice\Invoice\bin\Debug\Invoice.pdb
+D:\C#\Invoice\Invoice\bin\Debug\MyLogo.dll
+D:\C#\Invoice\Invoice\bin\Debug\MyLogo.pdb
+D:\C#\Invoice\Invoice\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#\Invoice\Invoice\obj\x86\Debug\Invoice.Form1.resources
+D:\C#\Invoice\Invoice\obj\x86\Debug\Invoice.Properties.Resources.resources
+D:\C#\Invoice\Invoice\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#\Invoice\Invoice\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\Invoice\Invoice\obj\x86\Debug\Invoice.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 36\Invoice\Invoice\obj\x86\Debug\Invoice.pdb

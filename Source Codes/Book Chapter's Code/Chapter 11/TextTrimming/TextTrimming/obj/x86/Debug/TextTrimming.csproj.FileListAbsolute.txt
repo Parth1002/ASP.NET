@@ -1,0 +1,39 @@
+C:\BlackBooks\C#2010\Chapter 11\TextTrimming\TextTrimming\bin\Debug\TextTrimming.exe
+C:\BlackBooks\C#2010\Chapter 11\TextTrimming\TextTrimming\bin\Debug\TextTrimming.pdb
+C:\BlackBooks\C#2010\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\BlackBooks\C#2010\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\MainWindow.baml
+C:\BlackBooks\C#2010\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\MainWindow.g.cs
+C:\BlackBooks\C#2010\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\App.g.cs
+C:\BlackBooks\C#2010\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\TextTrimming_MarkupCompile.cache
+C:\BlackBooks\C#2010\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\TextTrimming.g.resources
+C:\BlackBooks\C#2010\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\TextTrimming.Properties.Resources.resources
+C:\BlackBooks\C#2010\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\BlackBooks\C#2010\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\BlackBooks\C#2010\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\TextTrimming.exe
+C:\BlackBooks\C#2010\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\TextTrimming.pdb
+D:\CSharp 2010 Black book\Chapter 11\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\TextTrimming.exe
+D:\CSharp 2010 Black book\Chapter 11\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\TextTrimming.pdb
+D:\CSharp 2010 Black book\Chapter 11\Chapter 11\TextTrimming\TextTrimming\bin\Debug\TextTrimming.exe
+D:\CSharp 2010 Black book\Chapter 11\Chapter 11\TextTrimming\TextTrimming\bin\Debug\TextTrimming.pdb
+D:\CSharp 2010 Black book\Chapter 11\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CSharp 2010 Black book\Chapter 11\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\MainWindow.baml
+D:\CSharp 2010 Black book\Chapter 11\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\MainWindow.g.cs
+D:\CSharp 2010 Black book\Chapter 11\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\App.g.cs
+D:\CSharp 2010 Black book\Chapter 11\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\TextTrimming_MarkupCompile.cache
+D:\CSharp 2010 Black book\Chapter 11\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\TextTrimming.g.resources
+D:\CSharp 2010 Black book\Chapter 11\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\TextTrimming.Properties.Resources.resources
+D:\CSharp 2010 Black book\Chapter 11\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CSharp 2010 Black book\Chapter 11\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\GenerateResource.write.1.tlog
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\TextTrimming.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\TextTrimming.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\TextTrimming\TextTrimming\bin\Debug\TextTrimming.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\TextTrimming\TextTrimming\bin\Debug\TextTrimming.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\MainWindow.baml
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\MainWindow.g.cs
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\App.g.cs
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\TextTrimming_MarkupCompile.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\TextTrimming.g.resources
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\TextTrimming.Properties.Resources.resources
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\GenerateResource.read.1.tlog
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\TextTrimming\TextTrimming\obj\x86\Debug\GenerateResource.write.1.tlog

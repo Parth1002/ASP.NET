@@ -1,0 +1,17 @@
+c:\users\jyoti_srivastava\documents\visual studio 2010\C#2010\DynamicConversion\DynamicConversion\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jyoti_srivastava\documents\visual studio 2010\C#2010\DynamicConversion\DynamicConversion\bin\Debug\DynamicConversion.exe
+c:\users\jyoti_srivastava\documents\visual studio 2010\C#2010\DynamicConversion\DynamicConversion\bin\Debug\DynamicConversion.pdb
+c:\users\jyoti_srivastava\documents\visual studio 2010\C#2010\DynamicConversion\DynamicConversion\obj\x86\Debug\DynamicConversion.exe
+c:\users\jyoti_srivastava\documents\visual studio 2010\C#2010\DynamicConversion\DynamicConversion\obj\x86\Debug\DynamicConversion.pdb
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 7\DynamicConversion\DynamicConversion\obj\x86\Debug\DynamicConversion.exe
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 7\DynamicConversion\DynamicConversion\obj\x86\Debug\DynamicConversion.pdb
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 7\DynamicConversion\DynamicConversion\bin\Debug\DynamicConversion.exe
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 7\DynamicConversion\DynamicConversion\bin\Debug\DynamicConversion.pdb
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 7\DynamicConversion\DynamicConversion\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 7\DynamicConversion\DynamicConversion\obj\x86\Debug\DynamicConversion.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 7\DynamicConversion\DynamicConversion\obj\x86\Debug\DynamicConversion.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 7\DynamicConversion\DynamicConversion\bin\Debug\DynamicConversion.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 7\DynamicConversion\DynamicConversion\bin\Debug\DynamicConversion.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 7\DynamicConversion\DynamicConversion\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 7\DynamicConversion\DynamicConversion\obj\x86\Debug\DynamicConversion.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 7\DynamicConversion\DynamicConversion\obj\x86\Debug\DynamicConversion.pdb

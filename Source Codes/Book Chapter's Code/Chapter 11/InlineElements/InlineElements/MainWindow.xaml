@@ -1,0 +1,62 @@
+﻿<Window x:Class="InlineElements.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="440" Width="350">
+    <FlowDocumentReader Height="400">
+        <FlowDocument FontSize="12" FontFamily="a" >
+            <Paragraph>
+                <Bold>This is a Bold Text.
+                </Bold>
+    <LineBreak/>
+    </Paragraph>
+    <Paragraph>
+        <Italic>This is an Italic Text.
+        </Italic>
+    </Paragraph>
+    <Paragraph>
+        <Underline>This Text is underlined.
+        </Underline>
+    </Paragraph>
+    <Paragraph>
+        <Hyperlink>This is a Hyperlink.
+        </Hyperlink>
+    </Paragraph>
+    <Paragraph>Example of Subscript: H 
+        <Run Typography.Variants="Subscript">2O
+        </Run>
+    </Paragraph>
+    <Paragraph>
+        <InlineUIContainer>
+            <StackPanel>
+                <Label>Choose a Value:
+                </Label>
+                <ComboBox>
+                    <ComboBoxItem IsSelected="True">a
+                    </ComboBoxItem>
+                    <ComboBoxItem>b
+                    </ComboBoxItem>
+                </ComboBox>
+            </StackPanel>
+        </InlineUIContainer>
+    </Paragraph>
+    <Paragraph>
+        <Figure Width="100" Height="100" Background="LightPink" 
+			 HorizontalAnchor="PageLeft" HorizontalOffset="200" VerticalOffset="30">
+            <Paragraph>
+                <Italic>This text is using the Figure element.
+                </Italic>
+            </Paragraph>
+        </Figure>
+    </Paragraph>
+    <Paragraph>
+        <Floater Background="GhostWhite" Width="150" 
+			 HorizontalAlignment="Center">
+            <Paragraph>
+                <Bold>This text is using the Floater element.
+                </Bold>
+            </Paragraph>
+        </Floater>
+    </Paragraph>
+    </FlowDocument>
+    </FlowDocumentReader>
+</Window>

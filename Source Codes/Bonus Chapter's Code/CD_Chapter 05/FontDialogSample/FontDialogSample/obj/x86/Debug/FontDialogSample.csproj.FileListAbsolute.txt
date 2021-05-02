@@ -1,0 +1,9 @@
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\FontDialogSample\FontDialogSample\bin\Debug\FontDialogSample.exe
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\FontDialogSample\FontDialogSample\bin\Debug\FontDialogSample.pdb
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\FontDialogSample\FontDialogSample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\FontDialogSample\FontDialogSample\obj\x86\Debug\FontDialogSample.Form1.resources
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\FontDialogSample\FontDialogSample\obj\x86\Debug\FontDialogSample.Properties.Resources.resources
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\FontDialogSample\FontDialogSample\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\FontDialogSample\FontDialogSample\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\FontDialogSample\FontDialogSample\obj\x86\Debug\FontDialogSample.exe
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\FontDialogSample\FontDialogSample\obj\x86\Debug\FontDialogSample.pdb

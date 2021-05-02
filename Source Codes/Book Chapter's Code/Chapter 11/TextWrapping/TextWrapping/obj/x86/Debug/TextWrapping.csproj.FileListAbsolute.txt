@@ -1,0 +1,26 @@
+C:\BlackBooks\C#2010\Chapter 11\TextWrapping\TextWrapping\bin\Debug\TextWrapping.exe
+C:\BlackBooks\C#2010\Chapter 11\TextWrapping\TextWrapping\bin\Debug\TextWrapping.pdb
+C:\BlackBooks\C#2010\Chapter 11\TextWrapping\TextWrapping\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\BlackBooks\C#2010\Chapter 11\TextWrapping\TextWrapping\obj\x86\Debug\MainWindow.baml
+C:\BlackBooks\C#2010\Chapter 11\TextWrapping\TextWrapping\obj\x86\Debug\MainWindow.g.cs
+C:\BlackBooks\C#2010\Chapter 11\TextWrapping\TextWrapping\obj\x86\Debug\App.g.cs
+C:\BlackBooks\C#2010\Chapter 11\TextWrapping\TextWrapping\obj\x86\Debug\TextWrapping_MarkupCompile.cache
+C:\BlackBooks\C#2010\Chapter 11\TextWrapping\TextWrapping\obj\x86\Debug\TextWrapping.g.resources
+C:\BlackBooks\C#2010\Chapter 11\TextWrapping\TextWrapping\obj\x86\Debug\TextWrapping.Properties.Resources.resources
+C:\BlackBooks\C#2010\Chapter 11\TextWrapping\TextWrapping\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\BlackBooks\C#2010\Chapter 11\TextWrapping\TextWrapping\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\BlackBooks\C#2010\Chapter 11\TextWrapping\TextWrapping\obj\x86\Debug\TextWrapping.exe
+C:\BlackBooks\C#2010\Chapter 11\TextWrapping\TextWrapping\obj\x86\Debug\TextWrapping.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\TextWrapping\TextWrapping\obj\x86\Debug\TextWrapping.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\TextWrapping\TextWrapping\obj\x86\Debug\TextWrapping.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\TextWrapping\TextWrapping\bin\Debug\TextWrapping.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\TextWrapping\TextWrapping\bin\Debug\TextWrapping.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\TextWrapping\TextWrapping\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\TextWrapping\TextWrapping\obj\x86\Debug\MainWindow.baml
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\TextWrapping\TextWrapping\obj\x86\Debug\MainWindow.g.cs
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\TextWrapping\TextWrapping\obj\x86\Debug\App.g.cs
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\TextWrapping\TextWrapping\obj\x86\Debug\TextWrapping_MarkupCompile.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\TextWrapping\TextWrapping\obj\x86\Debug\TextWrapping.g.resources
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\TextWrapping\TextWrapping\obj\x86\Debug\TextWrapping.Properties.Resources.resources
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\TextWrapping\TextWrapping\obj\x86\Debug\GenerateResource.read.1.tlog
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\TextWrapping\TextWrapping\obj\x86\Debug\GenerateResource.write.1.tlog

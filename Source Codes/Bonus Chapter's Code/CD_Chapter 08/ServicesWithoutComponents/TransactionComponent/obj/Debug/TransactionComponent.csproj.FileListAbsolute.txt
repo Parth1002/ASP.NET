@@ -1,0 +1,5 @@
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\ServicesWithoutComponents\TransactionComponent\bin\Debug\TransactionComponent.dll
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\ServicesWithoutComponents\TransactionComponent\bin\Debug\TransactionComponent.pdb
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\ServicesWithoutComponents\TransactionComponent\obj\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\ServicesWithoutComponents\TransactionComponent\obj\Debug\TransactionComponent.dll
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\ServicesWithoutComponents\TransactionComponent\obj\Debug\TransactionComponent.pdb

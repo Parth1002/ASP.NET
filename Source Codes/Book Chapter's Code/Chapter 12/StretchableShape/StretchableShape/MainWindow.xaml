@@ -1,0 +1,14 @@
+﻿<Window x:Class="StretchableShape.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="300" Width="300">
+    <Grid>
+        <StackPanel>
+            <Polyline Fill="Pink" Points="100,100 100,200 200,200 200,100"
+		Stroke="Red" StrokeThickness="5" Stretch="Fill"/>
+            <Polyline Fill="LightBlue" Points="100,100 100,200 200,200 200,100"
+		Stroke="Red" StrokeThickness="2" Stretch="Uniform" />
+        </StackPanel>
+
+    </Grid>
+</Window>

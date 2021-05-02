@@ -1,0 +1,13 @@
+D:\Black Books\C# 2010\Chapter 30\ValidatingXMLData\ValidatingXMLData\bin\Debug\ValidatingXMLData.exe
+D:\Black Books\C# 2010\Chapter 30\ValidatingXMLData\ValidatingXMLData\bin\Debug\ValidatingXMLData.pdb
+D:\Black Books\C# 2010\Chapter 30\ValidatingXMLData\ValidatingXMLData\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\Chapter 30\ValidatingXMLData\ValidatingXMLData\obj\x86\Debug\ValidatingXMLData.Form1.resources
+D:\Black Books\C# 2010\Chapter 30\ValidatingXMLData\ValidatingXMLData\obj\x86\Debug\ValidatingXMLData.Properties.Resources.resources
+D:\Black Books\C# 2010\Chapter 30\ValidatingXMLData\ValidatingXMLData\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Black Books\C# 2010\Chapter 30\ValidatingXMLData\ValidatingXMLData\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Black Books\C# 2010\Chapter 30\ValidatingXMLData\ValidatingXMLData\obj\x86\Debug\ValidatingXMLData.exe
+D:\Black Books\C# 2010\Chapter 30\ValidatingXMLData\ValidatingXMLData\obj\x86\Debug\ValidatingXMLData.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 30\ValidatingXMLData\ValidatingXMLData\obj\x86\Debug\ValidatingXMLData.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 30\ValidatingXMLData\ValidatingXMLData\obj\x86\Debug\ValidatingXMLData.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 30\ValidatingXMLData\ValidatingXMLData\obj\x86\Debug\ValidatingXMLData.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 30\ValidatingXMLData\ValidatingXMLData\obj\x86\Debug\ValidatingXMLData.pdb

@@ -1,0 +1,10 @@
+﻿<Window x:Class="SliderControl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Slider Width="200" Orientation="Horizontal" HorizontalAlignment="Center" 
+		 Minimum="1" Maximum="9" TickPlacement="Both" 
+		TickFrequency="3" AutoToolTipPlacement="TopLeft" AutoToolTipPrecision="5"/>
+    </Grid>
+</Window>

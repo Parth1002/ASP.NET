@@ -1,0 +1,44 @@
+D:\Black Books\C# 2010\Chapter 33\Code\PrivateAssembly\Displayer\bin\Debug\Displayer.exe
+D:\Black Books\C# 2010\Chapter 33\Code\PrivateAssembly\Displayer\bin\Debug\Displayer.pdb
+D:\Black Books\C# 2010\Chapter 33\Code\PrivateAssembly\Displayer\bin\Debug\PrivateAssembly.dll
+D:\Black Books\C# 2010\Chapter 33\Code\PrivateAssembly\Displayer\bin\Debug\PrivateAssembly.pdb
+D:\Black Books\C# 2010\Chapter 33\Code\PrivateAssembly\Displayer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\Chapter 33\Code\PrivateAssembly\Displayer\obj\x86\Debug\Displayer.Form1.resources
+D:\Black Books\C# 2010\Chapter 33\Code\PrivateAssembly\Displayer\obj\x86\Debug\Displayer.Properties.Resources.resources
+D:\Black Books\C# 2010\Chapter 33\Code\PrivateAssembly\Displayer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Black Books\C# 2010\Chapter 33\Code\PrivateAssembly\Displayer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Black Books\C# 2010\Chapter 33\Code\PrivateAssembly\Displayer\obj\x86\Debug\Displayer.exe
+D:\Black Books\C# 2010\Chapter 33\Code\PrivateAssembly\Displayer\obj\x86\Debug\Displayer.pdb
+D:\Comdex\Black Book\C# 2010\Code\Chapter 33\PrivateAssembly\Displayer\obj\x86\Debug\Displayer.exe
+D:\Comdex\Black Book\C# 2010\Code\Chapter 33\PrivateAssembly\Displayer\obj\x86\Debug\Displayer.pdb
+D:\Comdex\Black Book\C# 2010\Code\Chapter 33\PrivateAssembly\Displayer\bin\Debug\Displayer.exe
+D:\Comdex\Black Book\C# 2010\Code\Chapter 33\PrivateAssembly\Displayer\bin\Debug\Displayer.pdb
+D:\Comdex\Black Book\C# 2010\Code\Chapter 33\PrivateAssembly\Displayer\bin\Debug\PrivateAssembly.dll
+D:\Comdex\Black Book\C# 2010\Code\Chapter 33\PrivateAssembly\Displayer\bin\Debug\PrivateAssembly.pdb
+D:\Comdex\Black Book\C# 2010\Code\Chapter 33\PrivateAssembly\Displayer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Comdex\Black Book\C# 2010\Code\Chapter 33\PrivateAssembly\Displayer\obj\x86\Debug\Displayer.Form1.resources
+D:\Comdex\Black Book\C# 2010\Code\Chapter 33\PrivateAssembly\Displayer\obj\x86\Debug\Displayer.Properties.Resources.resources
+D:\Comdex\Black Book\C# 2010\Code\Chapter 33\PrivateAssembly\Displayer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Comdex\Black Book\C# 2010\Code\Chapter 33\PrivateAssembly\Displayer\obj\x86\Debug\GenerateResource.write.1.tlog
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 33\PrivateAssembly\Displayer\obj\x86\Debug\Displayer.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 33\PrivateAssembly\Displayer\obj\x86\Debug\Displayer.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 33\PrivateAssembly\Displayer\bin\Debug\Displayer.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 33\PrivateAssembly\Displayer\bin\Debug\Displayer.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 33\PrivateAssembly\Displayer\bin\Debug\PrivateAssembly.dll
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 33\PrivateAssembly\Displayer\bin\Debug\PrivateAssembly.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 33\PrivateAssembly\Displayer\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 33\PrivateAssembly\Displayer\obj\x86\Debug\Displayer.Form1.resources
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 33\PrivateAssembly\Displayer\obj\x86\Debug\Displayer.Properties.Resources.resources
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 33\PrivateAssembly\Displayer\obj\x86\Debug\GenerateResource.read.1.tlog
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 33\PrivateAssembly\Displayer\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ASP.NET\Source Codes\Book Chapter's Code\Chapter 33\PrivateAssembly\Displayer\bin\Debug\Displayer.exe
+F:\ASP.NET\Source Codes\Book Chapter's Code\Chapter 33\PrivateAssembly\Displayer\bin\Debug\Displayer.pdb
+F:\ASP.NET\Source Codes\Book Chapter's Code\Chapter 33\PrivateAssembly\Displayer\bin\Debug\PrivateAssembly.dll
+F:\ASP.NET\Source Codes\Book Chapter's Code\Chapter 33\PrivateAssembly\Displayer\bin\Debug\PrivateAssembly.pdb
+F:\ASP.NET\Source Codes\Book Chapter's Code\Chapter 33\PrivateAssembly\Displayer\obj\x86\Debug\Displayer.csprojAssemblyReference.cache
+F:\ASP.NET\Source Codes\Book Chapter's Code\Chapter 33\PrivateAssembly\Displayer\obj\x86\Debug\Displayer.Form1.resources
+F:\ASP.NET\Source Codes\Book Chapter's Code\Chapter 33\PrivateAssembly\Displayer\obj\x86\Debug\Displayer.Properties.Resources.resources
+F:\ASP.NET\Source Codes\Book Chapter's Code\Chapter 33\PrivateAssembly\Displayer\obj\x86\Debug\Displayer.csproj.GenerateResource.cache
+F:\ASP.NET\Source Codes\Book Chapter's Code\Chapter 33\PrivateAssembly\Displayer\obj\x86\Debug\Displayer.csproj.CopyComplete
+F:\ASP.NET\Source Codes\Book Chapter's Code\Chapter 33\PrivateAssembly\Displayer\obj\x86\Debug\Displayer.exe
+F:\ASP.NET\Source Codes\Book Chapter's Code\Chapter 33\PrivateAssembly\Displayer\obj\x86\Debug\Displayer.pdb

@@ -1,0 +1,12 @@
+C:\BlackBooks\C#2010\Chapter 6\PointertoArray\PointertoArray\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\BlackBooks\C#2010\Chapter 6\PointertoArray\PointertoArray\bin\Debug\PointertoArray.exe
+C:\BlackBooks\C#2010\Chapter 6\PointertoArray\PointertoArray\bin\Debug\PointertoArray.pdb
+C:\BlackBooks\C#2010\Chapter 6\PointertoArray\PointertoArray\obj\x86\Debug\PointertoArray.exe
+C:\BlackBooks\C#2010\Chapter 6\PointertoArray\PointertoArray\obj\x86\Debug\PointertoArray.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 6\PointertoArray\PointertoArray\obj\x86\Debug\PointertoArray.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 6\PointertoArray\PointertoArray\obj\x86\Debug\PointertoArray.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 6\PointertoArray\PointertoArray\bin\Debug\PointertoArray.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 6\PointertoArray\PointertoArray\bin\Debug\PointertoArray.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 6\PointertoArray\PointertoArray\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 6\PointertoArray\PointertoArray\obj\x86\Debug\PointertoArray.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 6\PointertoArray\PointertoArray\obj\x86\Debug\PointertoArray.pdb

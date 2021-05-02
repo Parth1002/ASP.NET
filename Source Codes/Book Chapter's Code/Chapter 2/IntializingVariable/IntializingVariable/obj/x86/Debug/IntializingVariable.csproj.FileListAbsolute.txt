@@ -1,0 +1,12 @@
+D:\CSharp 2010 Black book Platinum Edition\Chapter 02\Code\IntializingVariable\IntializingVariable\bin\Debug\IntializingVariable.exe
+D:\CSharp 2010 Black book Platinum Edition\Chapter 02\Code\IntializingVariable\IntializingVariable\bin\Debug\IntializingVariable.pdb
+D:\CSharp 2010 Black book Platinum Edition\Chapter 02\Code\IntializingVariable\IntializingVariable\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CSharp 2010 Black book Platinum Edition\Chapter 02\Code\IntializingVariable\IntializingVariable\obj\x86\Debug\IntializingVariable.exe
+D:\CSharp 2010 Black book Platinum Edition\Chapter 02\Code\IntializingVariable\IntializingVariable\obj\x86\Debug\IntializingVariable.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\chapter2\IntializingVariable\IntializingVariable\obj\x86\Debug\IntializingVariable.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\chapter2\IntializingVariable\IntializingVariable\obj\x86\Debug\IntializingVariable.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\chapter2\IntializingVariable\IntializingVariable\bin\Debug\IntializingVariable.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\chapter2\IntializingVariable\IntializingVariable\bin\Debug\IntializingVariable.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\chapter2\IntializingVariable\IntializingVariable\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 2\IntializingVariable\IntializingVariable\obj\x86\Debug\IntializingVariable.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 2\IntializingVariable\IntializingVariable\obj\x86\Debug\IntializingVariable.pdb

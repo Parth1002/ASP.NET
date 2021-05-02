@@ -1,0 +1,13 @@
+﻿<Window x:Class="WindowsForms_in_WPFApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:wf="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"  
+    Title="HostingWfInWpf" Height="191" Width="182">
+
+    <Grid Height="108" Width="127">
+        <WindowsFormsHost>
+            <wf:MaskedTextBox x:Name="Date" Mask="0000/00/00" />
+        </WindowsFormsHost>
+    </Grid>
+
+</Window>

@@ -1,0 +1,12 @@
+﻿<Window x:Class="StackPanelControl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Width="200" 
+	 Height="200">
+        <Button Height="32"  />
+        <Button Height="32" />
+        <Button Height="32" />
+        <TextBox Height="38">Example of StackPanel</TextBox>
+    </StackPanel>
+</Window>

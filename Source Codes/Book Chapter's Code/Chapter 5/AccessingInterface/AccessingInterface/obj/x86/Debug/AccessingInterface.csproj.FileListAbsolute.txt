@@ -1,0 +1,12 @@
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 5\AccessingInterface\AccessingInterface\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 5\AccessingInterface\AccessingInterface\bin\Debug\AccessingInterface.exe
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 5\AccessingInterface\AccessingInterface\bin\Debug\AccessingInterface.pdb
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 5\AccessingInterface\AccessingInterface\obj\x86\Debug\AccessingInterface.exe
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 5\AccessingInterface\AccessingInterface\obj\x86\Debug\AccessingInterface.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 5\AccessingInterface\AccessingInterface\obj\x86\Debug\AccessingInterface.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 5\AccessingInterface\AccessingInterface\obj\x86\Debug\AccessingInterface.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 5\AccessingInterface\AccessingInterface\bin\Debug\AccessingInterface.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 5\AccessingInterface\AccessingInterface\bin\Debug\AccessingInterface.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 5\AccessingInterface\AccessingInterface\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 5\AccessingInterface\AccessingInterface\obj\x86\Debug\AccessingInterface.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 5\AccessingInterface\AccessingInterface\obj\x86\Debug\AccessingInterface.pdb

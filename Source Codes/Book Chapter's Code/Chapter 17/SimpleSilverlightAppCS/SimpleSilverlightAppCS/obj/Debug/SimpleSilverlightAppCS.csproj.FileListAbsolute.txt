@@ -1,0 +1,24 @@
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS\Bin\Debug\SimpleSilverlightAppCS.dll
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS\Bin\Debug\SimpleSilverlightAppCS.pdb
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS\Bin\Debug\AppManifest.xaml
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS\Bin\Debug\SimpleSilverlightAppCS.xap
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS\Bin\Debug\SimpleSilverlightAppCSTestPage.html
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS\obj\Debug\ResolveAssemblyReference.cache
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS\obj\Debug\App.g.cs
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS\obj\Debug\MainPage.g.cs
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS\obj\Debug\SimpleSilverlightAppCS.g.resources
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS\obj\Debug\SimpleSilverlightAppCS.dll
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS\obj\Debug\SimpleSilverlightAppCS.pdb
+D:\Books\Black Book\ASP.NET 4.0_BB\Applications_Chapter 20\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS\obj\Debug\XapCacheFile.xml
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\Final Code Folder\Chapter 19\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS\Bin\Debug\SimpleSilverlightAppCS.dll
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\Final Code Folder\Chapter 19\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS\Bin\Debug\SimpleSilverlightAppCS.pdb
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\Final Code Folder\Chapter 19\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS\Bin\Debug\AppManifest.xaml
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\Final Code Folder\Chapter 19\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS\Bin\Debug\SimpleSilverlightAppCS.xap
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\Final Code Folder\Chapter 19\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS\Bin\Debug\SimpleSilverlightAppCSTestPage.html
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\Final Code Folder\Chapter 19\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\Final Code Folder\Chapter 19\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS\obj\Debug\App.g.cs
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\Final Code Folder\Chapter 19\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS\obj\Debug\MainPage.g.cs
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\Final Code Folder\Chapter 19\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS\obj\Debug\SimpleSilverlightAppCS.g.resources
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\Final Code Folder\Chapter 19\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS\obj\Debug\SimpleSilverlightAppCS.dll
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\Final Code Folder\Chapter 19\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS\obj\Debug\SimpleSilverlightAppCS.pdb
+C:\Users\Avantika\Desktop\ASP.NET 4.0 BB\Final Code Folder\Chapter 19\CS\SimpleSilverlightAppCS\SimpleSilverlightAppCS\obj\Debug\XapCacheFile.xml

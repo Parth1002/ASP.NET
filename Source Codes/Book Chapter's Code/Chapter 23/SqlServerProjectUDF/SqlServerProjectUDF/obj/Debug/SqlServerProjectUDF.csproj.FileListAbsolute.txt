@@ -1,0 +1,5 @@
+D:\Black Books\C# 2010\Appendix E\SqlServerProjectUDF\SqlServerProjectUDF\bin\Debug\SqlServerProjectUDF.dll
+D:\Black Books\C# 2010\Appendix E\SqlServerProjectUDF\SqlServerProjectUDF\bin\Debug\SqlServerProjectUDF.pdb
+D:\Black Books\C# 2010\Appendix E\SqlServerProjectUDF\SqlServerProjectUDF\obj\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\Appendix E\SqlServerProjectUDF\SqlServerProjectUDF\obj\Debug\SqlServerProjectUDF.dll
+D:\Black Books\C# 2010\Appendix E\SqlServerProjectUDF\SqlServerProjectUDF\obj\Debug\SqlServerProjectUDF.pdb

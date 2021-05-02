@@ -1,0 +1,17 @@
+c:\users\jyoti_srivastava\documents\visual studio 2010\C#2010\UsingDynamicObject\UsingDynamicObject\bin\Debug\UsingDynamicObject.exe
+c:\users\jyoti_srivastava\documents\visual studio 2010\C#2010\UsingDynamicObject\UsingDynamicObject\bin\Debug\UsingDynamicObject.pdb
+c:\users\jyoti_srivastava\documents\visual studio 2010\C#2010\UsingDynamicObject\UsingDynamicObject\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jyoti_srivastava\documents\visual studio 2010\C#2010\UsingDynamicObject\UsingDynamicObject\obj\x86\Debug\UsingDynamicObject.exe
+c:\users\jyoti_srivastava\documents\visual studio 2010\C#2010\UsingDynamicObject\UsingDynamicObject\obj\x86\Debug\UsingDynamicObject.pdb
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 7\UsingDynamicObject\UsingDynamicObject\obj\x86\Debug\UsingDynamicObject.exe
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 7\UsingDynamicObject\UsingDynamicObject\obj\x86\Debug\UsingDynamicObject.pdb
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 7\UsingDynamicObject\UsingDynamicObject\bin\Debug\UsingDynamicObject.exe
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 7\UsingDynamicObject\UsingDynamicObject\bin\Debug\UsingDynamicObject.pdb
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 7\UsingDynamicObject\UsingDynamicObject\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 7\UsingDynamicObject\UsingDynamicObject\obj\x86\Debug\UsingDynamicObject.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 7\UsingDynamicObject\UsingDynamicObject\obj\x86\Debug\UsingDynamicObject.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 7\UsingDynamicObject\UsingDynamicObject\bin\Debug\UsingDynamicObject.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 7\UsingDynamicObject\UsingDynamicObject\bin\Debug\UsingDynamicObject.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 7\UsingDynamicObject\UsingDynamicObject\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 7\UsingDynamicObject\UsingDynamicObject\obj\x86\Debug\UsingDynamicObject.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 7\UsingDynamicObject\UsingDynamicObject\obj\x86\Debug\UsingDynamicObject.pdb

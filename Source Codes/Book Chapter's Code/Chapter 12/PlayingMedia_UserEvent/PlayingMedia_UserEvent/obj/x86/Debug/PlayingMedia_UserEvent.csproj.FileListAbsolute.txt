@@ -1,0 +1,45 @@
+D:\Black Books\C# 2010\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\bin\Debug\PlayingMedia_UserEvent.exe
+D:\Black Books\C# 2010\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\bin\Debug\PlayingMedia_UserEvent.pdb
+D:\Black Books\C# 2010\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\MainWindow.baml
+D:\Black Books\C# 2010\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\Window1.baml
+D:\Black Books\C# 2010\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\MainWindow.g.cs
+D:\Black Books\C# 2010\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\Window1.g.cs
+D:\Black Books\C# 2010\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\App.g.cs
+D:\Black Books\C# 2010\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\PlayingMedia_UserEvent_MarkupCompile.cache
+D:\Black Books\C# 2010\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\PlayingMedia_UserEvent.g.resources
+D:\Black Books\C# 2010\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\PlayingMedia_UserEvent.Properties.Resources.resources
+D:\Black Books\C# 2010\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Black Books\C# 2010\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Black Books\C# 2010\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\PlayingMedia_UserEvent.exe
+D:\Black Books\C# 2010\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\PlayingMedia_UserEvent.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\PlayingMedia_UserEvent.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\PlayingMedia_UserEvent.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\bin\Debug\PlayingMedia_UserEvent.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\bin\Debug\PlayingMedia_UserEvent.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\MainWindow.baml
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\Window1.baml
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\MainWindow.g.cs
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\Window1.g.cs
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\App.g.cs
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\PlayingMedia_UserEvent_MarkupCompile.cache
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\PlayingMedia_UserEvent.g.resources
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\PlayingMedia_UserEvent.Properties.Resources.resources
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\GenerateResource.write.1.tlog
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\PlayingMedia_UserEvent.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\PlayingMedia_UserEvent.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\bin\Debug\PlayingMedia_UserEvent.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\bin\Debug\PlayingMedia_UserEvent.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\MainWindow.baml
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\Window1.baml
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\MainWindow.g.cs
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\Window1.g.cs
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\App.g.cs
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\PlayingMedia_UserEvent_MarkupCompile.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\PlayingMedia_UserEvent.g.resources
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\PlayingMedia_UserEvent.Properties.Resources.resources
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\GenerateResource.read.1.tlog
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 12\PlayingMedia_UserEvent\PlayingMedia_UserEvent\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,9 @@
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\StatusStripSample\StatusStripSample\bin\Debug\StatusStripSample.exe
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\StatusStripSample\StatusStripSample\bin\Debug\StatusStripSample.pdb
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\StatusStripSample\StatusStripSample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\StatusStripSample\StatusStripSample\obj\x86\Debug\StatusStripSample.Form1.resources
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\StatusStripSample\StatusStripSample\obj\x86\Debug\StatusStripSample.Properties.Resources.resources
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\StatusStripSample\StatusStripSample\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\StatusStripSample\StatusStripSample\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\StatusStripSample\StatusStripSample\obj\x86\Debug\StatusStripSample.exe
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\StatusStripSample\StatusStripSample\obj\x86\Debug\StatusStripSample.pdb

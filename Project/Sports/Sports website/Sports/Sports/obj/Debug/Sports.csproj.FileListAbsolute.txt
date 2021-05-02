@@ -1,0 +1,288 @@
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\Sports.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\Sports.pdb
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\obj\Debug\ResolveAssemblyReference.cache
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\obj\Debug\App.g.cs
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\obj\Debug\MainPage.g.cs
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\obj\Debug\Sports.g.resources
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\obj\Debug\Sports.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\obj\Debug\Sports.pdb
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\AppManifest.xaml
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\Sports.xap
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\TestPage.html
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\obj\Debug\XapCacheFile.xml
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\System.Data.Services.Client.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\System.Windows.Controls.Data.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\System.Windows.Data.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\System.Xml.Linq.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\System.Windows.Controls.Data.Input.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\System.Data.Services.Client.xml
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\System.Windows.Controls.Data.xml
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\System.Windows.Data.xml
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\System.Xml.Linq.xml
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\System.Windows.Controls.Data.Input.xml
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\de\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\es\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\fr\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\it\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\ja\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\ko\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\zh-Hans\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\zh-Hant\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\de\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\es\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\fr\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\it\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\ja\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\ko\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\de\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\es\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\fr\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\it\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\ja\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\ko\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Sports\Sports\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\Sports.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\Sports.pdb
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\AppManifest.xaml
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\Sports.xap
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\TestPage.html
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\System.Data.Services.Client.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\System.Windows.Controls.Data.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\System.Windows.Data.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\System.Xml.Linq.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\System.Windows.Controls.Data.Input.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\System.Data.Services.Client.xml
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\System.Windows.Controls.Data.xml
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\System.Windows.Data.xml
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\System.Xml.Linq.xml
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\System.Windows.Controls.Data.Input.xml
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\de\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\es\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\fr\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\it\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\ja\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\ko\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\zh-Hans\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\zh-Hant\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\de\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\es\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\fr\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\it\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\ja\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\ko\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\de\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\es\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\fr\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\it\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\ja\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\ko\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\obj\Debug\ResolveAssemblyReference.cache
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\obj\Debug\App.g.cs
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\obj\Debug\MainPage.g.cs
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\obj\Debug\Sports.g.resources
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\obj\Debug\Sports.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\obj\Debug\Sports.pdb
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\Sports\Sports\obj\Debug\XapCacheFile.xml
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\Sports.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\Sports.pdb
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\AppManifest.xaml
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\Sports.xap
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\TestPage.html
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\System.Data.Services.Client.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\System.Windows.Controls.Data.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\System.Windows.Data.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\System.Xml.Linq.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\System.Windows.Controls.Data.Input.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\System.Data.Services.Client.xml
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\System.Windows.Controls.Data.xml
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\System.Windows.Data.xml
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\System.Xml.Linq.xml
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\System.Windows.Controls.Data.Input.xml
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\de\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\es\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\fr\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\it\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\ja\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\ko\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\zh-Hans\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\zh-Hant\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\de\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\es\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\fr\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\it\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\ja\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\ko\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\de\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\es\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\fr\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\it\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\ja\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\ko\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\obj\Debug\ResolveAssemblyReference.cache
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\obj\Debug\App.g.cs
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\obj\Debug\MainPage.g.cs
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\obj\Debug\Sports.g.resources
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\obj\Debug\Sports.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\obj\Debug\Sports.pdb
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports\Sports\obj\Debug\XapCacheFile.xml
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\Sports.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\Sports.pdb
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\AppManifest.xaml
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\Sports.xap
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\TestPage.html
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\System.Data.Services.Client.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\System.Windows.Controls.Data.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\System.Windows.Data.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\System.Xml.Linq.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\System.Windows.Controls.Data.Input.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\System.Data.Services.Client.xml
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\System.Windows.Controls.Data.xml
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\System.Windows.Data.xml
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\System.Xml.Linq.xml
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\System.Windows.Controls.Data.Input.xml
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\de\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\es\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\fr\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\it\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\ja\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\ko\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\zh-Hans\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\zh-Hant\System.Data.Services.Client.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\de\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\es\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\fr\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\it\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\ja\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\ko\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\de\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\es\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\fr\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\it\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\ja\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\ko\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\obj\Debug\ResolveAssemblyReference.cache
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\obj\Debug\App.g.cs
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\obj\Debug\MainPage.g.cs
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\obj\Debug\Sports.g.resources
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\obj\Debug\Sports.dll
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\obj\Debug\Sports.pdb
+D:\ASP.NET 4.0 Projects Book\Project IV-Sports Website\Code\T1\Sports website\Sports\Sports\obj\Debug\XapCacheFile.xml

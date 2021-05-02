@@ -1,0 +1,28 @@
+﻿<Window x:Class="MediaElement.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="300" Width="300">
+    <Grid Background="AliceBlue">
+        <MediaElement Margin="40,0,78,0" Name="mediaElement1"
+ 			Source="D:\wmafiles\Ringtone 01.wma"
+ 			LoadedBehavior="Manual"
+			UnloadedBehavior="Stop" Height="120" VerticalAlignment="Top" />
+        <Button HorizontalAlignment="Left" Margin="0,0,0,106" Name="button1"
+ 			Width="75" Click="button1_Click" Height="23"
+ 			VerticalAlignment="Bottom">Play</Button>
+        <Button Margin="105,0,98,106" Name="button2" Click="button2_Click"
+ 			Height="23" VerticalAlignment="Bottom">Stop</Button>
+        <Button Margin="0,0,13,106" Name="button3" Click="button3_Click"
+ 			Height="23" VerticalAlignment="Bottom" HorizontalAlignment="Right"
+ 			Width="75">Pause</Button>
+        <Label Height="28" HorizontalAlignment="Left" Margin="0,0,0,66"
+ 			Name="label1" VerticalAlignment="Bottom" Width="120">Volume</Label>
+        <Slider Height="21" Name="slider1" VerticalAlignment="Bottom"
+ 			ValueChanged="ChangeMediaVolume" Margin="66,0,62,73" />
+        <Label Height="28" HorizontalAlignment="Left" Margin="0,0,0,47"
+ 			Name="label2" VerticalAlignment="Bottom" Width="120">Speed</Label>
+        <Slider Height="21" Margin="66,0,62,47" Name="slider2"
+ 			VerticalAlignment="Bottom" ValueChanged="ChangeMediaSpeedRatio"/>
+    </Grid>
+
+</Window>

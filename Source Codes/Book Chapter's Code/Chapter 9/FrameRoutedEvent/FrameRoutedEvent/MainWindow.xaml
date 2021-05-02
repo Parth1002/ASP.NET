@@ -1,0 +1,18 @@
+﻿<Window x:Class="FrameRoutedEvent.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="552" xmlns:my="clr-namespace:FrameRoutedEvent">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="50*"/>
+        </Grid.RowDefinitions>
+        <my:Frame OnMouseHover="Frame_MouseHover" Grid.Row="0">
+            <Button Name="button1" Height="25" Width="75" Content="InsideFrame"/>
+        </my:Frame>
+        <Button  Name="button2" Height="25" Width="100" Grid.Row="1" 
+		 Content="OutsideFrame"/>
+
+
+    </Grid>
+</Window>

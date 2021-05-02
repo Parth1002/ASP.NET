@@ -1,0 +1,21 @@
+D:\Black Books\C# 2010\Chapter 35\WellKnownSingleTonClient\WellKnownSingleTonClient\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\Chapter 35\WellKnownSingleTonClient\WellKnownSingleTonClient\obj\x86\Debug\WellKnownSingleTonClient.Form1.resources
+D:\Black Books\C# 2010\Chapter 35\WellKnownSingleTonClient\WellKnownSingleTonClient\obj\x86\Debug\WellKnownSingleTonClient.Properties.Resources.resources
+D:\Black Books\C# 2010\Chapter 35\WellKnownSingleTonClient\WellKnownSingleTonClient\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Black Books\C# 2010\Chapter 35\WellKnownSingleTonClient\WellKnownSingleTonClient\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Black Books\C# 2010\Chapter 35\WellKnownSingleTonClient\WellKnownSingleTonClient\bin\Debug\WellKnownSingleTonClient.exe
+D:\Black Books\C# 2010\Chapter 35\WellKnownSingleTonClient\WellKnownSingleTonClient\bin\Debug\WellKnownSingleTonClient.pdb
+D:\Black Books\C# 2010\Chapter 35\WellKnownSingleTonClient\WellKnownSingleTonClient\bin\Debug\SharedObject.dll
+D:\Black Books\C# 2010\Chapter 35\WellKnownSingleTonClient\WellKnownSingleTonClient\bin\Debug\SharedObject.pdb
+D:\Black Books\C# 2010\Chapter 35\WellKnownSingleTonClient\WellKnownSingleTonClient\obj\x86\Debug\WellKnownSingleTonClient.exe
+D:\Black Books\C# 2010\Chapter 35\WellKnownSingleTonClient\WellKnownSingleTonClient\obj\x86\Debug\WellKnownSingleTonClient.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 35\WellKnownSingleTonClient\WellKnownSingleTonClient\obj\x86\Debug\WellKnownSingleTonClient.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 35\WellKnownSingleTonClient\WellKnownSingleTonClient\obj\x86\Debug\WellKnownSingleTonClient.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 35\WellKnownSingleTonClient\WellKnownSingleTonClient\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 35\WellKnownSingleTonClient\WellKnownSingleTonClient\obj\x86\Debug\WellKnownSingleTonClient.Form1.resources
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 35\WellKnownSingleTonClient\WellKnownSingleTonClient\obj\x86\Debug\WellKnownSingleTonClient.Properties.Resources.resources
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 35\WellKnownSingleTonClient\WellKnownSingleTonClient\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 35\WellKnownSingleTonClient\WellKnownSingleTonClient\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 35\WellKnownSingleTonClient\WellKnownSingleTonClient\obj\x86\Debug\Interop.DXTMSFTLib.dll
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 35\WellKnownSingleTonClient\WellKnownSingleTonClient\obj\x86\Debug\Interop.DXTRANSLib.dll
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 35\WellKnownSingleTonClient\WellKnownSingleTonClient\obj\x86\Debug\WellKnownSingleTonClient.csproj.ResolveComReference.cache

@@ -1,0 +1,9 @@
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\TrackBars\TrackBars\bin\Debug\TrackBars.exe
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\TrackBars\TrackBars\bin\Debug\TrackBars.pdb
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\TrackBars\TrackBars\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\TrackBars\TrackBars\obj\x86\Debug\TrackBars.Form1.resources
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\TrackBars\TrackBars\obj\x86\Debug\TrackBars.Properties.Resources.resources
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\TrackBars\TrackBars\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\TrackBars\TrackBars\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\TrackBars\TrackBars\obj\x86\Debug\TrackBars.exe
+D:\Black Books\C# 2010\CD Chapter\Chapter 04\Code\TrackBars\TrackBars\obj\x86\Debug\TrackBars.pdb

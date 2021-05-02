@@ -1,0 +1,19 @@
+E:\Charu\Kogent\C#2010BlackBook\Code\Chapter 25\MenuandStatusStrip\MenuandStatusStrip\bin\Debug\MenuandStatusStrip.exe.config
+E:\Charu\Kogent\C#2010BlackBook\Code\Chapter 25\MenuandStatusStrip\MenuandStatusStrip\bin\Debug\MenuandStatusStrip.exe
+E:\Charu\Kogent\C#2010BlackBook\Code\Chapter 25\MenuandStatusStrip\MenuandStatusStrip\bin\Debug\MenuandStatusStrip.pdb
+E:\Charu\Kogent\C#2010BlackBook\Code\Chapter 25\MenuandStatusStrip\MenuandStatusStrip\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Charu\Kogent\C#2010BlackBook\Code\Chapter 25\MenuandStatusStrip\MenuandStatusStrip\obj\x86\Debug\MenuandStatusStrip.Form1.resources
+E:\Charu\Kogent\C#2010BlackBook\Code\Chapter 25\MenuandStatusStrip\MenuandStatusStrip\obj\x86\Debug\MenuandStatusStrip.Properties.Resources.resources
+E:\Charu\Kogent\C#2010BlackBook\Code\Chapter 25\MenuandStatusStrip\MenuandStatusStrip\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Charu\Kogent\C#2010BlackBook\Code\Chapter 25\MenuandStatusStrip\MenuandStatusStrip\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Charu\Kogent\C#2010BlackBook\Code\Chapter 25\MenuandStatusStrip\MenuandStatusStrip\obj\x86\Debug\MenuandStatusStrip.exe
+E:\Charu\Kogent\C#2010BlackBook\Code\Chapter 25\MenuandStatusStrip\MenuandStatusStrip\obj\x86\Debug\MenuandStatusStrip.pdb
+D:\Black Books\C# 2010\Chapter 25\MenuandStatusStrip\MenuandStatusStrip\bin\Debug\MenuandStatusStrip.exe.config
+D:\Black Books\C# 2010\Chapter 25\MenuandStatusStrip\MenuandStatusStrip\obj\x86\Debug\MenuandStatusStrip.exe
+D:\Black Books\C# 2010\Chapter 25\MenuandStatusStrip\MenuandStatusStrip\obj\x86\Debug\MenuandStatusStrip.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 25\MenuandStatusStrip\MenuandStatusStrip\bin\Debug\MenuandStatusStrip.exe.config
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 25\MenuandStatusStrip\MenuandStatusStrip\obj\x86\Debug\MenuandStatusStrip.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 25\MenuandStatusStrip\MenuandStatusStrip\obj\x86\Debug\MenuandStatusStrip.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 25\MenuandStatusStrip\MenuandStatusStrip\bin\Debug\MenuandStatusStrip.exe.config
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 25\MenuandStatusStrip\MenuandStatusStrip\obj\x86\Debug\MenuandStatusStrip.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 25\MenuandStatusStrip\MenuandStatusStrip\obj\x86\Debug\MenuandStatusStrip.pdb

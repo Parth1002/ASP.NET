@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFControl_in_WindowsForm", "WPFControl_in_WindowsForm\WPFControl_in_WindowsForm.csproj", "{A92E2CB7-38CB-4F54-B630-E9EFE9AF1B36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A92E2CB7-38CB-4F54-B630-E9EFE9AF1B36}.Debug|x86.ActiveCfg = Debug|x86
+		{A92E2CB7-38CB-4F54-B630-E9EFE9AF1B36}.Debug|x86.Build.0 = Debug|x86
+		{A92E2CB7-38CB-4F54-B630-E9EFE9AF1B36}.Release|x86.ActiveCfg = Release|x86
+		{A92E2CB7-38CB-4F54-B630-E9EFE9AF1B36}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

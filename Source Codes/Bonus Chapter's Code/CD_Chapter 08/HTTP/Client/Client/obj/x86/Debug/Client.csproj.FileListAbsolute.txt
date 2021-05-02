@@ -1,0 +1,7 @@
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\HTTP\Client\Client\bin\Debug\Client.exe
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\HTTP\Client\Client\bin\Debug\Client.pdb
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\HTTP\Client\Client\bin\Debug\MathOperation.dll
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\HTTP\Client\Client\bin\Debug\MathOperation.pdb
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\HTTP\Client\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\HTTP\Client\Client\obj\x86\Debug\Client.exe
+D:\Black Books\C# 2010\CD Chapter\Chapter 08\Code\HTTP\Client\Client\obj\x86\Debug\Client.pdb

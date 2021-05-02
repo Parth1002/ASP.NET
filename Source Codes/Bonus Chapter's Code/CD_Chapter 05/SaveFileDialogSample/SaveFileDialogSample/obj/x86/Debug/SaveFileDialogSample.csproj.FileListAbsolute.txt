@@ -1,0 +1,9 @@
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\SaveFileDialogSample\SaveFileDialogSample\bin\Debug\SaveFileDialogSample.exe
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\SaveFileDialogSample\SaveFileDialogSample\bin\Debug\SaveFileDialogSample.pdb
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\SaveFileDialogSample\SaveFileDialogSample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\SaveFileDialogSample\SaveFileDialogSample\obj\x86\Debug\SaveFileDialogSample.Form1.resources
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\SaveFileDialogSample\SaveFileDialogSample\obj\x86\Debug\SaveFileDialogSample.Properties.Resources.resources
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\SaveFileDialogSample\SaveFileDialogSample\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\SaveFileDialogSample\SaveFileDialogSample\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\SaveFileDialogSample\SaveFileDialogSample\obj\x86\Debug\SaveFileDialogSample.exe
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\SaveFileDialogSample\SaveFileDialogSample\obj\x86\Debug\SaveFileDialogSample.pdb

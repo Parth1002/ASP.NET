@@ -1,0 +1,7 @@
+D:\Black Books\C# 2010\Chapter 02\Alias\Alias\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\Chapter 02\Alias\Alias\bin\Debug\Alias.exe
+D:\Black Books\C# 2010\Chapter 02\Alias\Alias\bin\Debug\Alias.pdb
+D:\Black Books\C# 2010\Chapter 02\Alias\Alias\obj\x86\Debug\Alias.exe
+D:\Black Books\C# 2010\Chapter 02\Alias\Alias\obj\x86\Debug\Alias.pdb
+D:\Comdex\Black Book\C# 2010\Code\Code\Alias\Alias\obj\x86\Debug\Alias.exe
+D:\Comdex\Black Book\C# 2010\Code\Code\Alias\Alias\obj\x86\Debug\Alias.pdb

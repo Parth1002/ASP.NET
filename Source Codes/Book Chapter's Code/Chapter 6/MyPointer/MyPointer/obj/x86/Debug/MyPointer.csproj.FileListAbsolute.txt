@@ -1,0 +1,17 @@
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 6\MyPointer\MyPointer\bin\Debug\MyPointer.exe
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 6\MyPointer\MyPointer\bin\Debug\MyPointer.pdb
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 6\MyPointer\MyPointer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 6\MyPointer\MyPointer\obj\x86\Debug\MyPointer.exe
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 6\MyPointer\MyPointer\obj\x86\Debug\MyPointer.pdb
+C:\BlackBooks\C#2010\Chapter 6\MyPointer\MyPointer\obj\x86\Debug\MyPointer.exe
+C:\BlackBooks\C#2010\Chapter 6\MyPointer\MyPointer\obj\x86\Debug\MyPointer.pdb
+C:\BlackBooks\C#2010\Chapter 6\MyPointer\MyPointer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\BlackBooks\C#2010\Chapter 6\MyPointer\MyPointer\bin\Debug\MyPointer.exe
+C:\BlackBooks\C#2010\Chapter 6\MyPointer\MyPointer\bin\Debug\MyPointer.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 6\MyPointer\MyPointer\obj\x86\Debug\MyPointer.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 6\MyPointer\MyPointer\obj\x86\Debug\MyPointer.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 6\MyPointer\MyPointer\bin\Debug\MyPointer.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 6\MyPointer\MyPointer\bin\Debug\MyPointer.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 6\MyPointer\MyPointer\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 6\MyPointer\MyPointer\obj\x86\Debug\MyPointer.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 6\MyPointer\MyPointer\obj\x86\Debug\MyPointer.pdb

@@ -1,0 +1,7 @@
+D:\Books\Black Book\C# 2010\Chapter 36\PEVerifyApps\CSharpTestApp\CSharpTestApp\bin\Debug\CSharpTestApp.exe
+D:\Books\Black Book\C# 2010\Chapter 36\PEVerifyApps\CSharpTestApp\CSharpTestApp\bin\Debug\CSharpTestApp.pdb
+D:\Books\Black Book\C# 2010\Chapter 36\PEVerifyApps\CSharpTestApp\CSharpTestApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Books\Black Book\C# 2010\Chapter 36\PEVerifyApps\CSharpTestApp\CSharpTestApp\obj\x86\Debug\CSharpTestApp.exe
+D:\Books\Black Book\C# 2010\Chapter 36\PEVerifyApps\CSharpTestApp\CSharpTestApp\obj\x86\Debug\CSharpTestApp.pdb
+C:\Users\Avantika\Desktop\Chapter 36\PEVerifyApps\CSharpTestApp\CSharpTestApp\obj\x86\Debug\CSharpTestApp.exe
+C:\Users\Avantika\Desktop\Chapter 36\PEVerifyApps\CSharpTestApp\CSharpTestApp\obj\x86\Debug\CSharpTestApp.pdb

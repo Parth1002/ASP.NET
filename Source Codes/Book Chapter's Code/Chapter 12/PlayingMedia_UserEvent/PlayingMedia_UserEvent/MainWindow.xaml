@@ -1,0 +1,8 @@
+﻿<Window x:Class="PlayingMedia_UserEvent.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="300" Width="300">
+    <Grid>
+        <Button Name="button1" Click="button1_Click">Click to play</Button>
+    </Grid>
+</Window>

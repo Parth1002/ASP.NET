@@ -1,0 +1,12 @@
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 3\MyInfiniteLoop\MyInfiniteLoop\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 3\MyInfiniteLoop\MyInfiniteLoop\bin\Debug\MyInfiniteLoop.exe
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 3\MyInfiniteLoop\MyInfiniteLoop\bin\Debug\MyInfiniteLoop.pdb
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 3\MyInfiniteLoop\MyInfiniteLoop\obj\x86\Debug\MyInfiniteLoop.exe
+C:\Users\Jyoti_Srivastava\Documents\Visual Studio 2010\C#2010\Chapter 3\MyInfiniteLoop\MyInfiniteLoop\obj\x86\Debug\MyInfiniteLoop.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 3\MyInfiniteLoop\MyInfiniteLoop\obj\x86\Debug\MyInfiniteLoop.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 3\MyInfiniteLoop\MyInfiniteLoop\obj\x86\Debug\MyInfiniteLoop.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 3\MyInfiniteLoop\MyInfiniteLoop\bin\Debug\MyInfiniteLoop.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 3\MyInfiniteLoop\MyInfiniteLoop\bin\Debug\MyInfiniteLoop.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 3\MyInfiniteLoop\MyInfiniteLoop\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 3\MyInfiniteLoop\MyInfiniteLoop\obj\x86\Debug\MyInfiniteLoop.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 3\MyInfiniteLoop\MyInfiniteLoop\obj\x86\Debug\MyInfiniteLoop.pdb

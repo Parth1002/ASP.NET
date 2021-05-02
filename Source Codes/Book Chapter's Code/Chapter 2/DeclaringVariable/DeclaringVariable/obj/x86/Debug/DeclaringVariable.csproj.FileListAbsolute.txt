@@ -1,0 +1,12 @@
+D:\CSharp 2010 Black book Platinum Edition\Chapter 02\Code\DeclaringVariable\DeclaringVariable\bin\Debug\DeclaringVariable.exe
+D:\CSharp 2010 Black book Platinum Edition\Chapter 02\Code\DeclaringVariable\DeclaringVariable\bin\Debug\DeclaringVariable.pdb
+D:\CSharp 2010 Black book Platinum Edition\Chapter 02\Code\DeclaringVariable\DeclaringVariable\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CSharp 2010 Black book Platinum Edition\Chapter 02\Code\DeclaringVariable\DeclaringVariable\obj\x86\Debug\DeclaringVariable.exe
+D:\CSharp 2010 Black book Platinum Edition\Chapter 02\Code\DeclaringVariable\DeclaringVariable\obj\x86\Debug\DeclaringVariable.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\chapter2\DeclaringVariable\DeclaringVariable\obj\x86\Debug\DeclaringVariable.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\chapter2\DeclaringVariable\DeclaringVariable\obj\x86\Debug\DeclaringVariable.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\chapter2\DeclaringVariable\DeclaringVariable\bin\Debug\DeclaringVariable.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\chapter2\DeclaringVariable\DeclaringVariable\bin\Debug\DeclaringVariable.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\chapter2\DeclaringVariable\DeclaringVariable\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 2\DeclaringVariable\DeclaringVariable\obj\x86\Debug\DeclaringVariable.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 2\DeclaringVariable\DeclaringVariable\obj\x86\Debug\DeclaringVariable.pdb

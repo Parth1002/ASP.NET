@@ -1,0 +1,21 @@
+﻿<Window x:Class="ExpanderControl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Expander Width="200" HorizontalContentAlignment="Center">
+            <Expander.Header>click on the arrow
+            </Expander.Header>
+            <Expander.Content>
+                <ScrollViewer Height="30">
+                    <TextBlock TextWrapping="WrapWithOverflow">
+			This is an example of expander control. this example is also using 
+			 scrollviewer control.
+			you can use both the controls together to give your application a good 
+			 look and feel.
+                    </TextBlock>
+                </ScrollViewer>
+            </Expander.Content>
+        </Expander>
+    </Grid>
+</Window>

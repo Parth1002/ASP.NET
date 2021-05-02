@@ -1,0 +1,39 @@
+C:\BlackBooks\C#2010\Chapter 11\ManipulatingTypography\ManipulatingTypography\bin\Debug\ManipulatingTypography.exe
+C:\BlackBooks\C#2010\Chapter 11\ManipulatingTypography\ManipulatingTypography\bin\Debug\ManipulatingTypography.pdb
+C:\BlackBooks\C#2010\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\BlackBooks\C#2010\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\MainWindow.baml
+C:\BlackBooks\C#2010\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\MainWindow.g.cs
+C:\BlackBooks\C#2010\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\App.g.cs
+C:\BlackBooks\C#2010\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\ManipulatingTypography_MarkupCompile.cache
+C:\BlackBooks\C#2010\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\ManipulatingTypography.g.resources
+C:\BlackBooks\C#2010\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\ManipulatingTypography.Properties.Resources.resources
+C:\BlackBooks\C#2010\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\BlackBooks\C#2010\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\BlackBooks\C#2010\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\ManipulatingTypography.exe
+C:\BlackBooks\C#2010\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\ManipulatingTypography.pdb
+D:\CSharp 2010 Black book\Chapter 11\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\ManipulatingTypography.exe
+D:\CSharp 2010 Black book\Chapter 11\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\ManipulatingTypography.pdb
+D:\CSharp 2010 Black book\Chapter 11\Chapter 11\ManipulatingTypography\ManipulatingTypography\bin\Debug\ManipulatingTypography.exe
+D:\CSharp 2010 Black book\Chapter 11\Chapter 11\ManipulatingTypography\ManipulatingTypography\bin\Debug\ManipulatingTypography.pdb
+D:\CSharp 2010 Black book\Chapter 11\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CSharp 2010 Black book\Chapter 11\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\MainWindow.baml
+D:\CSharp 2010 Black book\Chapter 11\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\MainWindow.g.cs
+D:\CSharp 2010 Black book\Chapter 11\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\App.g.cs
+D:\CSharp 2010 Black book\Chapter 11\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\ManipulatingTypography_MarkupCompile.cache
+D:\CSharp 2010 Black book\Chapter 11\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\ManipulatingTypography.g.resources
+D:\CSharp 2010 Black book\Chapter 11\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\ManipulatingTypography.Properties.Resources.resources
+D:\CSharp 2010 Black book\Chapter 11\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CSharp 2010 Black book\Chapter 11\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\GenerateResource.write.1.tlog
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\ManipulatingTypography.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\ManipulatingTypography.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\ManipulatingTypography\ManipulatingTypography\bin\Debug\ManipulatingTypography.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\ManipulatingTypography\ManipulatingTypography\bin\Debug\ManipulatingTypography.pdb
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\MainWindow.baml
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\MainWindow.g.cs
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\App.g.cs
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\ManipulatingTypography_MarkupCompile.cache
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\ManipulatingTypography.g.resources
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\ManipulatingTypography.Properties.Resources.resources
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\GenerateResource.read.1.tlog
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 11\ManipulatingTypography\ManipulatingTypography\obj\x86\Debug\GenerateResource.write.1.tlog

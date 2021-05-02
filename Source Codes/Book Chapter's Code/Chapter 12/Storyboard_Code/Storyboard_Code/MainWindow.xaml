@@ -1,0 +1,11 @@
+﻿<Window x:Class="Storyboard_Code.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="300" Width="300">
+    <Grid>
+        <Button Width="100" Name="button1" Click="button1_Click"
+ 		HorizontalAlignment="Left" Margin="0,27,0,0" Height="29"
+ 		VerticalAlignment="Top">Click to grow</Button>
+
+    </Grid>
+</Window>

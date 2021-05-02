@@ -1,0 +1,11 @@
+﻿<Window x:Class="CanvasControl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Canvas Background="Beige">
+        <Button Canvas.Left="88" Canvas.Top="117" Height="23" Name="myButton" 
+		 Width="75">Hello!!</Button>
+        <Label Canvas.Left="69" Canvas.Top="50" Height="28" Name="myLabel" 
+		 Width="120">Example of Canvas</Label>
+    </Canvas>
+</Window>

@@ -1,0 +1,28 @@
+D:\Black Books\C# 2010\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\bin\Debug\DeploymentTestClickOnce.exe
+D:\Black Books\C# 2010\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\bin\Debug\DeploymentTestClickOnce.pdb
+D:\Black Books\C# 2010\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\obj\x86\Debug\DeploymentTestClickOnce.Form1.resources
+D:\Black Books\C# 2010\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\obj\x86\Debug\DeploymentTestClickOnce.Properties.Resources.resources
+D:\Black Books\C# 2010\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Black Books\C# 2010\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Black Books\C# 2010\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\obj\x86\Debug\DeploymentTestClickOnce.exe
+D:\Black Books\C# 2010\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\obj\x86\Debug\DeploymentTestClickOnce.pdb
+D:\Black Books\C# 2010\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\bin\Debug\DeploymentTestClickOnce.exe.manifest
+D:\Black Books\C# 2010\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\bin\Debug\DeploymentTestClickOnce.application
+D:\Black Books\C# 2010\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\obj\x86\Debug\DeploymentTestClickOnce.exe.manifest
+D:\Black Books\C# 2010\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\obj\x86\Debug\DeploymentTestClickOnce.application
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\obj\x86\Debug\DeploymentTestClickOnce.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\obj\x86\Debug\DeploymentTestClickOnce.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\bin\Debug\DeploymentTestClickOnce.exe.manifest
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\bin\Debug\DeploymentTestClickOnce.application
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\bin\Debug\DeploymentTestClickOnce.exe
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\bin\Debug\DeploymentTestClickOnce.pdb
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\obj\x86\Debug\DeploymentTestClickOnce.Form1.resources
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\obj\x86\Debug\DeploymentTestClickOnce.Properties.Resources.resources
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\obj\x86\Debug\DeploymentTestClickOnce.exe.manifest
+D:\anil\Black book\C# 2010 blackbook\cd_code\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\obj\x86\Debug\DeploymentTestClickOnce.application
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\obj\x86\Debug\DeploymentTestClickOnce.exe
+\\SULABH_DIXIT\Public\C#2010\FINAL_Book Chapter's Code\Chapter 21\DeploymentTestClickOnce\DeploymentTestClickOnce\obj\x86\Debug\DeploymentTestClickOnce.pdb

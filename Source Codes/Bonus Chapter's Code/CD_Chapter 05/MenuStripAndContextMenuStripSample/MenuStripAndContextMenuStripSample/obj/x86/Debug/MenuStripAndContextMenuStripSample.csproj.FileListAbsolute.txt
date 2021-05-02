@@ -1,0 +1,11 @@
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\MenuStripAndContextMenuStripSample\MenuStripAndContextMenuStripSample\bin\Debug\MenuStripAndContextMenuStripSample.exe
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\MenuStripAndContextMenuStripSample\MenuStripAndContextMenuStripSample\bin\Debug\MenuStripAndContextMenuStripSample.pdb
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\MenuStripAndContextMenuStripSample\MenuStripAndContextMenuStripSample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\MenuStripAndContextMenuStripSample\MenuStripAndContextMenuStripSample\obj\x86\Debug\MenuStripAndContextMenuStripSample.Form1.resources
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\MenuStripAndContextMenuStripSample\MenuStripAndContextMenuStripSample\obj\x86\Debug\MenuStripAndContextMenuStripSample.Properties.Resources.resources
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\MenuStripAndContextMenuStripSample\MenuStripAndContextMenuStripSample\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\MenuStripAndContextMenuStripSample\MenuStripAndContextMenuStripSample\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\MenuStripAndContextMenuStripSample\MenuStripAndContextMenuStripSample\obj\x86\Debug\MenuStripAndContextMenuStripSample.exe
+D:\Black Books\C# 2010\CD Chapters\Chapter 5\MenuStripAndContextMenuStripSample\MenuStripAndContextMenuStripSample\obj\x86\Debug\MenuStripAndContextMenuStripSample.pdb
+D:\Comdex\Black Book\C# 2010\Chapters\CD_Chapters\CD_Chapter 05\MenuStripAndContextMenuStripSample\MenuStripAndContextMenuStripSample\obj\x86\Debug\MenuStripAndContextMenuStripSample.exe
+D:\Comdex\Black Book\C# 2010\Chapters\CD_Chapters\CD_Chapter 05\MenuStripAndContextMenuStripSample\MenuStripAndContextMenuStripSample\obj\x86\Debug\MenuStripAndContextMenuStripSample.pdb

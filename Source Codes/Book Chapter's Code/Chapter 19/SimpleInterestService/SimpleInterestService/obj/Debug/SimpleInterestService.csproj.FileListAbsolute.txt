@@ -1,0 +1,5 @@
+D:\Black Books\C# 2010\Chapter 19\SimpleInterestService\SimpleInterestService\bin\SimpleInterestService.dll
+D:\Black Books\C# 2010\Chapter 19\SimpleInterestService\SimpleInterestService\bin\SimpleInterestService.pdb
+D:\Black Books\C# 2010\Chapter 19\SimpleInterestService\SimpleInterestService\obj\Debug\ResolveAssemblyReference.cache
+D:\Black Books\C# 2010\Chapter 19\SimpleInterestService\SimpleInterestService\obj\Debug\SimpleInterestService.dll
+D:\Black Books\C# 2010\Chapter 19\SimpleInterestService\SimpleInterestService\obj\Debug\SimpleInterestService.pdb
